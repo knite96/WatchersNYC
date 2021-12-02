@@ -1,4 +1,4 @@
-# Watchers of NYC
+# The Watchers of NYC
 
 ## Main
 
