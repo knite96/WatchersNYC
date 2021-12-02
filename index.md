@@ -1,6 +1,6 @@
-#Watchers of NYC
+# Watchers of NYC
 
-## Watchers
+## Main
 
 **This is a temporary page for my project, please dont judge too harshly :)**
 
