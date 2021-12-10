@@ -40,5 +40,5 @@ df['Species Status'] = df['Species Status'].replace(np.nan, 'Other')
 
 #output to new file
 df.to_csv('WatchersFin.csv', index=False)
-[CSV](WatchersFin.csv)
+![CSV](WatchersFin.csv)
 ```
