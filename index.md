@@ -2,15 +2,21 @@
 
 ## Main
 
-**This is a temporary page for my project, please dont judge too harshly :)**
+**Welcome to my Project Website!**
 
-**ignore below!**
+### Overview:
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+The objective of my project was to use data on animal encounters in NYC to create visualizations that may urge site visitors to seek out their local wildlife. Personally, I was curious about the nature of these animals in New York. These silent watchers that have observed and adapted to centuries of human activity. Using some of the most popular python libraries, I have created several visualizations that I hope will impart some glint of knowledge to anyone viewing this site.
 
-### Markdown
+## The Libraries I used:
+```
+import pandas as pd
+import numpy as np
+import matplotlib.pyplot as plt
+from collections import Counter
+import folium
+```
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
 ```markdown
 Syntax highlighted code block
