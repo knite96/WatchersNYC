@@ -8,7 +8,7 @@
 
 The objective of my project was to use data on animal encounters in NYC to create visualizations that may urge site visitors to seek out their local wildlife. Personally, I was curious about the nature of these animals in New York. These silent watchers that have observed and adapted to centuries of human activity. Using some of the most popular python libraries, I have created several visualizations that I hope will impart some glint of knowledge to anyone viewing this site.
 
-## The Libraries I used:
+### The Libraries I used:
 ```
 import pandas as pd
 import numpy as np
