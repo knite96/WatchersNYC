@@ -145,4 +145,4 @@ The sheer size of output was initially the issue, however, time proved to be the
 
 Despite this: I did end up creating a map for Staten Island. Looking over the vast plot of greenery and space, I believe SI to be an intersting place to visit if you want to see some funky animals. _(The ferry ain't bad either, you get to see Lady Liberty!)_. Anyways, here's the map and I hope you decide to visit and take a look for yourself!
 
-[HTML](https://github.com/knite96/WatchersNYC/blob/gh-pages/watcherSI%5BNoGeoJSON%5D.html)
+[HTML](watcherSI[NoGeoJSON].html)
