@@ -26,7 +26,7 @@ df = pd.read_csv('Urban_Park_Ranger_Animal_Condition_Response.csv')
 
 Now we move onto preprocessing the data:
 
-###Preprocessing the Data:
+### Preprocessing the Data:
 ```
 #return dataframe of necessary features
 df = df[['Date and Time of initial call', 'Borough', 'Property', 'Species Description', 'Species Status', 'Animal Class', '# of Animals']]
