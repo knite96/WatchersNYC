@@ -10,6 +10,7 @@ The objective of my project was to use data on animal encounters in NYC to creat
 
 ### The Libraries I used:
 ```
+#Python Libraries:
 import pandas as pd
 import numpy as np
 import matplotlib.pyplot as plt
@@ -17,31 +18,9 @@ from collections import Counter
 import folium
 ```
 
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
+With the proper libraries loaded, we can now read the dataset I chose:
 ```
-
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/knite96/WatchersNYC/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+#dataset link: https://data.cityofnewyork.us/Environment/Urban-Park-Ranger-Animal-Condition-Response/fuhs-xmg2
+#read dataset
+df = pd.read_csv('Urban_Park_Ranger_Animal_Condition_Response.csv')
+```
