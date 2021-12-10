@@ -136,7 +136,16 @@ So, it's _clear_ these visualizations all point to a singular conclusion:
 
 **THE STREETS OF NEW YORK BELONG TO TRASH PANDAS**
 
-In all honesty, I believe that the only reason raccoons are reported so high is because most people don't want to deal with them. Fear of rabies and general uncleanliness from going through other people's trash generally tends to sway people away. However, I think that, despite whatever bias one may have against them, they are a model survivor in the concrete jungle that is NYC.
+In all honesty, I believe that the only reason raccoons are reported so high is because most people don't want to deal with them. Fear of rabies and general uncleanliness from going through other people's trash generally tends to sway people away. However, I think that, despite whatever bias one may have against them, they are the best silent watchers of NYC. _(*only because they need you to leave so they can get to the leftovers in your garbage)_
+
+## But WAIT!, there's MORE!:
+
+The original purpose of this project was to create one large map of NYC, mapping out each and every points of animal interations with the Urban Park Rangers.
+The sheer size of output was initially the issue, however, time proved to be the bigger limiting factor.
+
+Despite this: I did end up creating a map for Staten Island. Looking over the vast plot of greenery and space, I believe SI to be an intersting place to visit if you want to see some funky animals. _(The ferry ain't bad either, you get to see Lady Liberty!)_. Anyways, here's the map and I hope you decide to visit and take a look for yourself!
+
+![HTML](watcherSI[NoGeoJSON].html)
 
 
 
