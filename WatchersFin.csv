@@ -1,0 +1,962 @@
+Date and Time of initial call,Borough,Property,Species Description,Species Status,Animal Class,# of Animals
+06/12/2019 09:20:00 AM,Manhattan,Washington Square Park,Red-Tailed Hawk,Native,Raptors,1.0
+06/11/2019 04:15:00 PM,Bronx,Van Cortlandt Park,Canada Goose,Native,Birds,1.0
+06/10/2019 01:00:00 PM,Brooklyn,Irving Square Park,Parrot,Exotic,Domestic,1.0
+06/09/2019 09:30:00 AM,Brooklyn,Parade Ground,Chicken,Domestic,Domestic,1.0
+06/09/2019 12:50:00 PM,Staten Island,Silver Lake Park,Red-Eared Slider,Invasive,Terrestrial Reptile or Amphibian,2.0
+06/08/2019 11:00:00 AM,Manhattan,Washington Square Park,Rd-Tailed Hawk,Native,Raptors,1.0
+06/08/2019 08:44:00 AM,Manhattan,Tompkins Square Park,Red-Tailed Hawk,Native,Raptors,1.0
+06/06/2019 10:00:00 AM,Manhattan,Tompkins Square Park,Red-Tailed Hawk,Native,Raptors,1.0
+06/07/2019 03:15:00 PM,Queens,Flushing Meadows Corona Park,Cormorant,Native,Birds,1.0
+06/07/2019 03:15:00 PM,Queens,Flushing Meadows Corona Park,Cormorant,Native,Birds,1.0
+06/07/2019 04:30:00 PM,Queens,Harvey Park,Raccoon,Native,Small Mammals-RVS,0.0
+06/06/2019 03:30:00 PM,Manhattan,Robert Bendheim Playground,Red-Eared Slider,Invasive,Terrestrial Reptile or Amphibian,1.0
+06/06/2019 10:00:00 AM,Bronx,851 Fairmont Pl,Rooster,Domestic,Birds,3.0
+06/05/2019 02:15:00 PM,Queens,Rockaway Beach and Boardwalk,Dove,Native,Birds,1.0
+06/05/2019 11:00:00 AM,Brooklyn,Dyker Beach Park,Raccoon,Native,Small Mammals-RVS,1.0
+06/05/2019 10:00:00 AM,Manhattan,Central Park,Raccoon,Native,Small Mammals-RVS,1.0
+06/02/2019 05:15:00 PM,Staten Island,LaTourette Park & Golf Course,Snapping Turtle,Native,Terrestrial Reptile or Amphibian,1.0
+06/04/2019 12:30:00 PM,Manhattan,Central Park,Raccoon,Native,Small Mammals-RVS,1.0
+06/04/2019 10:30:00 AM,Manhattan,Central Park,Monk Parakeet,Other,Birds,1.0
+06/02/2019 12:00:00 PM,Bronx,Van Cortlandt Park,Mallard Duck,Native,Birds,2.0
+06/01/2019 03:00:00 PM,Bronx,Orchard Beach,Gull,Native,Birds,1.0
+05/31/2019 08:00:00 AM,Manhattan,Tompkins Square Park,Red-Tailed Hawk,Native,Raptors,1.0
+05/31/2019 12:00:00 AM,Manhattan,Frederick Douglass Playground,Snake,Other,Terrestrial Reptile or Amphibian,1.0
+05/31/2019 01:00:00 PM,Manhattan,Central Park,Snapping Turtle,Native,Terrestrial Reptile or Amphibian,1.0
+05/10/2019 04:30:00 PM,Brooklyn,Bartel-Pritchard Square,Raccoon,Domestic,Small Mammals-RVS,1.0
+05/31/2019 01:00:00 PM,Manhattan,Central Park,Snapping Turtle,Native,Terrestrial Reptile or Amphibian,1.0
+05/27/2019 10:00:00 AM,Staten Island,Blue Heron Park,Snapping Turtle,Native,"Rare, Endangered, Dangerous",1.0
+05/26/2019 11:00:00 AM,Brooklyn,Sunset Park,Opossum,Native,Small Mammals-non RVS,1.0
+05/25/2019 11:00:00 AM,Brooklyn,Bushwick Inlet Park,Canada Goose,Native,Birds,1.0
+05/23/2019 02:00:00 PM,Bronx,Harding Park,Rooster,Domestic,Domestic,2.0
+05/24/2019 02:30:00 PM,Brooklyn,Prospect Park,Mallard Duck,Native,Birds,2.0
+05/22/2019 09:30:00 AM,Brooklyn,Dyker Beach Park,Raccoon,Native,Small Mammals-RVS,1.0
+05/23/2019 12:00:00 PM,Manhattan,Central Park,Red-Eyed Vireo,Native,Birds,1.0
+05/23/2019 09:30:00 AM,Manhattan,Central Park,Turtle,Other,Terrestrial Reptile or Amphibian,1.0
+05/22/2019 12:45:00 PM,Manhattan,Inwood Hill Park,Squirrel,Native,Small Mammals-non RVS,1.0
+05/22/2019 02:50:00 PM,Queens,Kissena Park,Snapping Turtle,Native,Marine Reptiles,1.0
+05/22/2019 02:00:00 PM,Manhattan,Central Park,American Robin,Native,Birds,1.0
+05/20/2019 11:40:00 AM,Staten Island,Allison Pond Park,Snapping Turtle,Native,Marine Reptiles,1.0
+05/20/2019 11:00:00 AM,Staten Island,Willowbrook Park,Domestic Duck,Domestic,Domestic,5.0
+05/18/2019 04:15:00 PM,Manhattan,Battery Park City,Pigeon,Native,Domestic,1.0
+05/17/2019 04:15:00 PM,Manhattan,Madison Square Park,Bat,Native,Small Mammals-RVS,1.0
+05/17/2019 08:30:00 AM,Manhattan,Highline Park,Sparrow,Native,Birds,1.0
+05/16/2019 11:00:00 AM,Brooklyn,Prospect Park,Canada Goose,Native,Birds,1.0
+05/15/2019 11:15:00 AM,Staten Island,South Beach Wetlands,Snapping Turtle,Native,Marine Reptiles,1.0
+05/14/2019 03:54:00 PM,Manhattan,Central Park,Bat,Native,Small Mammals-RVS,1.0
+05/14/2019 02:30:00 PM,Brooklyn,Marine Park,Raccoon,Native,Small Mammals-RVS,1.0
+05/14/2019 10:00:00 AM,Manhattan,Central Park,Domestic Rabbit,Domestic,Domestic,1.0
+05/11/2019 01:10:00 PM,Queens,Forest Park,Fledgling (Possibly Starling),Native,Birds,1.0
+05/09/2019 09:14:00 AM,Queens,Oakland Lake,Canada Goose,Native,Birds,0.0
+05/12/2019 11:00:00 AM,Queens,Cambria Playground,Guineafowl,Native,Birds,1.0
+05/12/2019 09:05:00 AM,Staten Island,Willowbrook Park,Canada Goose,Native,Birds,1.0
+05/09/2019 11:30:00 AM,Manhattan,Central Park,American Goldfinch,Native,Birds,1.0
+05/11/2019 01:00:00 PM,Manhattan,Central Park,Raccoon,Native,Small Mammals-RVS,1.0
+05/11/2019 03:30:00 PM,Manhattan,Stuyvesant Square,Chicken,Domestic,Domestic,1.0
+05/11/2019 07:30:00 AM,Manhattan,Central Park,Chicken,Domestic,Domestic,1.0
+05/10/2019 04:30:00 PM,Brooklyn,Bartel-Pritchard Square,Raccoon,Native,Small Mammals-RVS,0.0
+05/11/2019 09:00:00 AM,Brooklyn,Maria Hernandez Park,Red-Tailed Hawk,Native,Raptors,2.0
+05/09/2019 09:00:00 AM,Bronx,Williamsbridge Oval Recreation Center,Bird/Unspecified Species,Other,Birds,5.0
+05/09/2019 10:30:00 AM,Staten Island,Willowbrook Park,Canada Goose,Native,Birds,2.0
+05/08/2019 02:00:00 PM,Manhattan,Sherman Creek,Raccoon,Native,Small Mammals-RVS,1.0
+05/08/2019 02:00:00 PM,Manhattan,Fort Tryon Park,Raccoon,Native,Small Mammals-RVS,1.0
+05/08/2019 02:30:00 PM,Queens,Kissena Park,Freshwater Fish And Turtles,Domestic,Fish-numerous quantity;#Terrestrial Reptile or Amphibian,0.0
+05/08/2019 12:36:00 PM,Staten Island,Clove Lakes Park,Snapping Turtle,Native,Terrestrial Reptile or Amphibian,1.0
+05/05/2019 09:05:00 AM,Bronx,Van Cortlandt Park,Turtle/ Unspecified Species,Other,Marine Reptiles,1.0
+05/03/2019 11:25:00 AM,Queens,Alley Pond Park,Cat,Domestic,Domestic,1.0
+05/03/2019 08:55:00 AM,Brooklyn,Marine Park,Opossum,Native,Small Mammals-non RVS,1.0
+05/02/2019 12:30:00 PM,Staten Island,Willowbrook Park,Canada Goose,Native,Birds,2.0
+05/01/2019 04:30:00 PM,Manhattan,Central Park,Raccoon,Native,Small Mammals-RVS,1.0
+05/01/2019 03:45:00 PM,Manhattan,Central Park,Silver-Haired Bat,Native,Small Mammals-RVS,1.0
+04/30/2019 05:00:00 PM,Brooklyn,Prospect Park,Raccoon,Native,Small Mammals-RVS,1.0
+04/11/2019 04:30:00 PM,Brooklyn,Coney Island Beach &amp; Boardwalk,Raccoon,Native,Small Mammals-RVS,1.0
+04/30/2019 02:00:00 PM,Staten Island,Clove Lakes Park,Domestic Duck,Domestic,Domestic;#Birds,3.0
+04/29/2019 12:30:00 PM,Staten Island,Franklin D. Roosevelt Boardwalk and Beach,Seal,Native,Marine Mammals-seals only,1.0
+04/28/2019 08:30:00 AM,Queens,Forest Park,Raccoon,Native,Small Mammals-RVS,1.0
+04/28/2019 08:25:00 AM,Manhattan,Central Park,Egret,Native,Birds,1.0
+04/26/2019 12:30:00 PM,Brooklyn,Prospect Park,Canada Goose,Native,Birds,1.0
+04/25/2019 04:00:00 PM,Staten Island,Blue Heron Park,Skunk,Native,Small Mammals-RVS,2.0
+04/23/2019 03:00:00 PM,Manhattan,Fort Washington Park,Skunk,Native,Small Mammals-RVS,1.0
+04/23/2019 02:45:00 PM,Manhattan,Central Park,Squirrel,Native,Small Mammals-non RVS,1.0
+04/23/2019 12:00:00 AM,Bronx,Van Cortlandt Park,Painted Turtle,Native,Marine Reptiles,1.0
+04/23/2019 10:00:00 AM,Staten Island,Blue Heron Park,Skunk,Native,Small Mammals-RVS,1.0
+04/22/2019 10:30:00 AM,Queens,Rockaway Beach and Boardwalk,Northern Gannet,Native,Birds,1.0
+04/21/2019 04:20:00 PM,Bronx,Van Cortlandt Park,Raccoon,Native,Small Mammals-RVS,1.0
+04/21/2019 12:00:00 AM,Manhattan,Riverside Park,Raccoon,Native,Small Mammals-RVS,1.0
+04/21/2019 02:00:00 PM,Queens,Astoria Park,Parakeet,Domestic,Birds,1.0
+04/21/2019 01:45:00 PM,Bronx,Van Cortlandt Park,Painted Turtle,Native,Marine Reptiles,1.0
+04/17/2019 11:30:00 AM,Queens,Kissena Park,Raccoon,Native,Small Mammals-RVS,1.0
+04/19/2019 01:00:00 PM,Queens,Kissena Park,Raccoon,Native,Small Mammals-RVS,1.0
+04/19/2019 09:45:00 AM,Brooklyn,Calvert Vaux Park,Raccoon,Native,Small Mammals-RVS,1.0
+04/18/2019 12:00:00 AM,Bronx,Crotona Park,Mallard Duck,Domestic,Domestic,1.0
+04/18/2019 09:45:00 AM,Manhattan,Morningside Park,Raccoon,Native,Small Mammals-RVS,1.0
+04/18/2019 08:00:00 AM,Manhattan,Inwood Hill Park,Raccoon,Native,Small Mammals-RVS,1.0
+04/17/2019 01:00:00 PM,Manhattan,Central Park,American Robin,Native,Birds,1.0
+04/12/2019 03:00:00 PM,Brooklyn,Owl's Head Park,Raccoon,Native,Small Mammals-RVS,1.0
+04/16/2019 11:15:00 AM,Manhattan,Central Park,Raccoon,Native,Small Mammals-RVS,1.0
+04/15/2019 12:00:00 PM,Bronx,Pugsley Creek Park,Raccoon,Native,Small Mammals-RVS,2.0
+04/14/2019 12:25:00 PM,Queens,Highland Park,Cockatiel,Domestic,Domestic,1.0
+04/11/2019 11:45:00 AM,Queens,Forest Park,Raccoon,Native,Small Mammals-RVS,1.0
+04/13/2019 02:00:00 PM,Manhattan,Inwood Hill Park,Raccoon,Native,Small Mammals-RVS,1.0
+04/11/2019 03:30:00 PM,Manhattan,Central Park,Raccoon,Native,Small Mammals-RVS,1.0
+04/12/2019 05:00:00 PM,Manhattan,Inwood Hill Park,Skunk,Native,Small Mammals-RVS,1.0
+04/08/2019 01:00:00 PM,Manhattan,Inwood Hill Park,Raccoon,Native,Small Mammals-RVS,1.0
+04/11/2019 08:30:00 AM,Manhattan,Central Park,Saw Whet Owl,Native,Raptors,1.0
+04/09/2019 02:00:00 PM,Queens,Alley Pond Park,Raccoon,Native,Small Mammals-RVS,1.0
+04/08/2019 01:15:00 PM,Queens,Rockaway Beach 48 Street,Dog,Domestic,Domestic,1.0
+04/09/2019 02:00:00 PM,Manhattan,Central Park,Robin,Native,Birds,1.0
+04/09/2019 09:30:00 AM,Staten Island,Willowbrook Park,Domestic Duck,Domestic,Domestic,6.0
+04/07/2019 12:30:00 PM,Queens,Forest Park,Raccoon,Native,Small Mammals-RVS,1.0
+04/07/2019 03:00:00 PM,Manhattan,Inwood Hill Park,Big Brown Bat,Native,Small Mammals-RVS,1.0
+04/06/2019 04:00:00 PM,Manhattan,Randall's Island Park,Opossum,Native,Small Mammals-non RVS,1.0
+04/05/2019 12:30:00 PM,Manhattan,Centrail Park,Opossum,Native,Small Mammals-non RVS,1.0
+04/04/2019 03:30:00 PM,Manhattan,St. Nicholas Park,Corn Snake,Domestic,Domestic,1.0
+04/04/2019 02:00:00 PM,Manhattan,Isham Park,Opossum,Native,Small Mammals-non RVS,1.0
+04/04/2019 08:30:00 AM,Queens,Kissena Park,Raccoon,Native,Small Mammals-RVS,1.0
+04/03/2019 04:30:00 PM,Manhattan,Fort Tryon Park,Skunk,Native,Small Mammals-RVS,1.0
+04/03/2019 10:30:00 AM,Queens,Kissena Park,Mute Swan,Native,Birds,1.0
+04/03/2019 10:15:00 AM,Queens,Flushing Meadows Corona Park,Raccoon,Native,Small Mammals-RVS,1.0
+04/01/2019 09:10:00 PM,Staten Island,Greenbelt Recreation Center,Chicken,Domestic,Domestic,1.0
+04/02/2019 10:00:00 AM,Manhattan,Central Park,Opossum,Native,Small Mammals-non RVS,1.0
+04/02/2019 11:00:00 AM,Manhattan,Central Park,Cooper's Hawk,Native,Raptors,1.0
+04/02/2019 09:00:00 AM,Staten Island,Greenbelt Recreation Center,Chicken,Domestic,Domestic,2.0
+04/02/2019 09:20:00 AM,Bronx,Van Cortlandt Park,Raccoon,Native,Small Mammals-RVS,1.0
+03/30/2019 03:15:00 PM,Staten Island,Willowbrook Park,Canada Goose,Native,Birds,1.0
+04/01/2019 11:30:00 AM,Staten Island,Willowbrook Park,Canada Goose,Native,Birds,2.0
+04/01/2019 02:00:00 PM,Manhattan,Inwood Hill Park,Raccoon,Native,Small Mammals-RVS,1.0
+03/31/2019 12:30:00 PM,Staten Island,Conference House Park,Harbor Porpoise,Native,"Marine Mammals-whales, Dolphin",1.0
+03/31/2019 08:00:00 AM,Brooklyn,Saratoga Park,Raccoon,Native,Small Mammals-RVS,1.0
+03/30/2019 01:00:00 PM,Queens,Forest Park,Raccoon,Native,Small Mammals-RVS,1.0
+03/30/2019 02:45:00 PM,Queens,College Point Park,Raccoon,Native,Small Mammals-RVS,1.0
+03/30/2019 01:15:00 PM,Brooklyn,Shore Park and Parkway,Opossum,Native,Small Mammals-non RVS,1.0
+03/29/2019 03:00:00 PM,Brooklyn,Prospect Park,Raccoon,Native,Small Mammals-RVS,1.0
+03/29/2019 09:30:00 PM,Manhattan,Morningside Park,Boa Constrictor Snake,Exotic,Terrestrial Reptile or Amphibian,1.0
+03/29/2019 12:12:00 PM,Brooklyn,Shore Park and Parkway,Raccoon,Native,Small Mammals-RVS,1.0
+03/28/2019 01:00:00 PM,Bronx,Orchard Beach,Skunk,Native,Small Mammals-RVS,1.0
+03/27/2019 12:00:00 PM,Bronx,Bronx Park,Chicken,Domestic,Domestic,6.0
+03/28/2019 12:15:00 PM,Staten Island,Schmul Park,Raccoon,Native,Small Mammals-RVS,1.0
+03/28/2019 09:25:00 AM,Staten Island,Ocean Breeze Park,Turkey,Native,Birds,1.0
+03/28/2019 09:15:00 AM,Staten Island,High Rock Park,Turkey,Native,Birds,1.0
+03/27/2019 04:55:00 PM,Staten Island,Historic Richmondtown,Canada Goose,Native,Birds,2.0
+03/27/2019 11:30:00 AM,Queens,Forest Park,Raccoon,Native,Small Mammals-RVS,1.0
+03/26/2019 08:30:00 AM,Staten Island,Hylan Boulevard and Ithaca Street,Deer,Domestic,Deer,1.0
+03/26/2019 03:45:00 PM,Queens,Dubos Point Wildlife Sanctuary,Dolphin,Native,"Marine Mammals-whales, Dolphin",1.0
+03/24/2019 12:00:00 PM,Queens,Alley Pond Park,Raccoon,Native,Small Mammals-RVS,1.0
+03/26/2019 12:00:00 PM,Queens,Roy Wilkins Recreation Center,Dog,Domestic,Domestic,1.0
+03/25/2019 03:20:00 PM,Queens,Macneil Park,Raccoon,Native,Small Mammals-RVS,1.0
+03/25/2019 03:30:00 PM,Queens,Forest Park,Raccoon,Native,Small Mammals-RVS,1.0
+03/25/2019 01:40:00 PM,Queens,Forest Park,Raccoon,Native,Small Mammals-RVS,0.0
+03/25/2019 08:30:00 AM,Queens,Marco Giovanelli Playground,Raccoon,Native,Small Mammals-RVS,1.0
+03/24/2019 12:00:00 PM,Brooklyn,Prospect Park,Red-Eared Slider,Invasive,Terrestrial Reptile or Amphibian,1.0
+03/21/2019 02:00:00 PM,Brooklyn,Owl's Head Park,Raccoon,Native,Small Mammals-RVS,1.0
+03/23/2019 03:41:00 PM,Manhattan,Riverside Park,Chicken,Domestic,Birds,3.0
+03/22/2019 03:45:00 PM,Manhattan,Central Park,Coyote,Native,Coyotes,1.0
+03/22/2019 03:25:00 PM,Queens,Forest Park,Raccoon,Native,Small Mammals-RVS,1.0
+03/22/2019 11:55:00 AM,Brooklyn,Owl's Head Park,Raccoon,Native,Small Mammals-RVS,1.0
+03/21/2019 09:00:00 AM,Queens,Forest Park,Raccoon,Native,Small Mammals-RVS,1.0
+03/20/2019 03:50:00 PM,Brooklyn,Owl's Head Park,Raccoon,Native,Small Mammals-RVS,1.0
+03/19/2019 02:00:00 PM,Queens,Highland Park,Swan,Native,Birds,1.0
+03/20/2019 09:00:00 AM,Brooklyn,Prospect Park,Raccoon,Native,Small Mammals-RVS,1.0
+03/20/2019 11:00:00 AM,Queens,Highland Park,Skunk,Native,Small Mammals-RVS,1.0
+03/20/2019 09:10:00 AM,Queens,Flushing Meadows Corona Park,Raccoon,Native,Small Mammals-RVS,1.0
+03/19/2019 11:00:00 AM,Manhattan,Central Park,Raccoon,Native,Small Mammals-RVS,1.0
+03/19/2019 09:52:00 AM,Bronx,Green Street,Opossum,Native,Small Mammals-non RVS,1.0
+03/18/2019 04:45:00 PM,Queens,Flushing Meadows Corona Park,Raccoon,Native,Small Mammals-RVS,1.0
+03/18/2019 03:30:00 PM,Staten Island,Willowbrook Park,Canada Goose,Native,Birds,1.0
+03/18/2019 03:20:00 PM,Bronx,Orchard Beach,Skunk,Native,Small Mammals-RVS,6.0
+03/18/2019 12:15:00 PM,Brooklyn,Green-Wood Cemetery,Raccoon,Native,Small Mammals-RVS,1.0
+03/17/2019 03:30:00 PM,Bronx,Van Cortlandt Park,Swan,Invasive,Birds,1.0
+03/17/2019 11:00:00 AM,Queens,Forest Park,Raccoon,Native,Small Mammals-RVS,1.0
+03/16/2019 03:00:00 PM,Bronx,Orchard Beach,Harbor Seal,Native,Marine Mammals-seals only,1.0
+03/16/2019 03:40:00 PM,Manhattan,Central Park,Cooper's Hawk,Native,Birds,1.0
+03/15/2019 04:45:00 PM,Brooklyn,Prospect Park,Frog,Other,Terrestrial Reptile or Amphibian,0.0
+03/16/2019 01:30:00 PM,Brooklyn,Shore Park and Parkway,Raccoon,Native,Small Mammals-RVS,0.0
+03/15/2019 04:56:00 PM,Bronx,Concrete Plant Park,Raccoon,Native,Small Mammals-RVS,1.0
+03/15/2019 03:00:00 PM,Manhattan,Central Park,Squirrel,Native,Small Mammals-non RVS,1.0
+03/14/2019 10:00:00 AM,Manhattan,Central Park,Raccoon,Native,Small Mammals-RVS,1.0
+03/14/2019 02:15:00 PM,Queens,Highland Park,Raccoon,Native,Small Mammals-RVS,1.0
+03/14/2019 09:00:00 AM,Queens,Macneil Park,Raccoon,Native,Small Mammals-RVS,1.0
+03/14/2019 09:00:00 AM,Queens,Juniper Valley Park,Raccoon,Native,Small Mammals-RVS,1.0
+03/13/2019 03:00:00 PM,Queens,Forest Park,Raccoon,Native,Small Mammals-RVS,1.0
+03/13/2019 01:00:00 PM,Manhattan,Greeley Square Park,Woodcock,Native,Birds,1.0
+03/12/2019 12:00:00 PM,Manhattan,Central Park,Raccoon,Native,Small Mammals-RVS,1.0
+03/12/2019 10:00:00 AM,Manhattan,Central Park,Raccoon,Native,Small Mammals-RVS,1.0
+03/11/2019 03:00:00 PM,Queens,Flushing Meadows Corona Park,Raccoon,Native,Small Mammals-RVS,1.0
+03/11/2019 12:00:00 PM,Staten Island,Historic Richmond Town,Canada Goose,Native,Birds,1.0
+03/10/2019 01:30:00 PM,Queens,Forest Park,Raccoon,Native,Small Mammals-RVS,1.0
+03/07/2019 12:00:00 PM,Brooklyn,Prospect Park,Raccoon,Native,Small Mammals-RVS,1.0
+03/09/2019 04:30:00 PM,Queens,Highland Park,Mute Swan,Native,Birds,1.0
+03/07/2019 10:00:00 AM,Manhattan,Central Park,Raccoon,Native,Small Mammals-RVS,1.0
+03/05/2019 03:00:00 PM,Brooklyn,Calvert Vaux Park,Raccoon,Native,Small Mammals-RVS,1.0
+02/22/2019 12:00:00 PM,Bronx,Van Cortlandt Park,Swan,Native,Birds,1.0
+02/22/2019 12:00:00 PM,Bronx,Van Cortlandt Park,Swan,Native,Birds,1.0
+02/27/2019 03:30:00 PM,Staten Island,Historic Richmond Town,Canada Goose,Native,Domestic,0.0
+03/02/2019 03:25:00 PM,Queens,Ehrenreich-Austin Playground,Raccoon,Native,Small Mammals-RVS,1.0
+03/01/2019 04:40:00 PM,Manhattan,Central Park,Raccoon,Native,Small Mammals-RVS,1.0
+03/01/2019 12:40:00 PM,Manhattan,Riverside Park,Coyote,Native,Coyotes,1.0
+02/28/2019 02:00:00 PM,Manhattan,Inwood Hill Park,Raccoon,Native,Small Mammals-RVS,1.0
+02/28/2019 01:30:00 PM,Staten Island,Historic Richmondtown,Canada Goose,Native,Birds,1.0
+02/28/2019 09:05:00 AM,Queens,Park Of The Americas,Dog,Domestic,Domestic,1.0
+02/27/2019 11:50:00 AM,Manhattan,Inwood Hill Park,Raccoon,Native,Small Mammals-RVS,1.0
+02/27/2019 02:30:00 PM,Staten Island,Historic Richmond Town,Canada Goose,Native,Birds,1.0
+02/26/2019 01:10:00 PM,Manhattan,Inwood Hill Park,Raccoon,Native,Small Mammals-RVS,1.0
+02/26/2019 12:30:00 PM,Manhattan,Inwood Hill Park,Raccoon,Native,Small Mammals-RVS,1.0
+02/25/2019 01:19:00 PM,Staten Island,Historic Richmond town,Canada Goose,Native,Birds,1.0
+02/22/2019 12:00:00 PM,Bronx,Van Cortlandt Park,Swan,Native,Birds,1.0
+02/24/2019 12:00:00 PM,Queens,Highland Park,Raccoon,Native,Small Mammals-RVS,1.0
+02/23/2019 09:30:00 AM,Bronx,Matthews Muliner Playground,Raccoon,Native,Small Mammals-RVS,2.0
+02/22/2019 02:00:00 PM,Staten Island,Lemon Creek Park,Seal,Native,Marine Mammals-seals only,1.0
+02/21/2019 05:10:00 PM,Manhattan,Central Park,Raccoon,Native,Small Mammals-non RVS,1.0
+02/21/2019 04:40:00 PM,Manhattan,Central Park,Raccoon,Native,Small Mammals-RVS,1.0
+02/21/2019 04:30:00 PM,Manhattan,Inwood Hill Park,Raccoon,Native,Small Mammals-RVS,1.0
+02/21/2019 04:00:00 PM,Manhattan,Inwood Hill Park,Raccoon,Native,Small Mammals-RVS,1.0
+02/19/2019 10:30:00 AM,Manhattan,Mannahatta Park,Red-Tailed Hawk,Native,Raptors,1.0
+02/20/2019 06:40:00 PM,Staten Island,Industrial Park,Deer,Native,Deer,1.0
+02/20/2019 04:00:00 PM,Manhattan,Inwood Hill Park,Raccoon,Native,Small Mammals-RVS,1.0
+02/20/2019 08:40:00 AM,Bronx,Van Cortlandt Park,Coyote,Native,Coyotes,1.0
+02/19/2019 01:00:00 PM,Brooklyn,Calvert Vaux Park,Raccoon,Native,Small Mammals-RVS,1.0
+02/16/2019 01:00:00 PM,Manhattan,Central Park,Red-Tailed Hawk,Native,Raptors,1.0
+02/18/2019 12:30:00 PM,Queens,Captain Tilly Park,Chicken,Domestic,Domestic;#Birds,1.0
+02/18/2019 09:45:00 AM,Brooklyn,Prospect Park,Raccoon,Native,Small Mammals-RVS,1.0
+02/18/2019 08:45:00 AM,Brooklyn,Marine Park,Raccoon,Native,Small Mammals-RVS,1.0
+02/17/2019 03:25:00 PM,Queens,Joe Michaels Mile,Raccoon,Native,Small Mammals-RVS,1.0
+02/17/2019 09:30:00 AM,Brooklyn,Prospect Park,Canada Goose,Native,Birds,1.0
+02/15/2019 09:30:00 AM,Queens,Alley Pond Park,Raccoon,Domestic,Small Mammals-RVS,1.0
+02/13/2019 12:00:00 PM,Staten Island,Wolfe's Pond Park,Brant Goose,Native,Birds,1.0
+02/12/2019 11:00:00 AM,Brooklyn,Prospect Park,Raccoon,Native,Small Mammals-RVS,1.0
+02/10/2019 03:30:00 PM,Bronx,Van Cortlandt Park,Coyote,Native,Coyotes,1.0
+02/06/2019 02:00:00 PM,Brooklyn,Prospect Park,Falcon,Native,Raptors,1.0
+02/09/2019 01:00:00 PM,Manhattan,Ft Tryon Park,Raccoon,Native,Small Mammals-RVS,1.0
+02/08/2019 02:40:00 PM,Manhattan,Central Park,Cooper's Hawk,Native,Raptors,1.0
+02/07/2019 03:00:00 PM,Manhattan,Central Park,Squirrel,Native,Small Mammals-RVS,1.0
+02/05/2019 04:00:00 PM,Brooklyn,Prospect Park,Raccoon,Native,Small Mammals-RVS,1.0
+02/05/2019 04:40:00 PM,Queens,Forest Park,Raccoon,Native,Small Mammals-RVS,1.0
+02/05/2019 03:35:00 PM,Bronx,Crotona Park,Red-Tailed Hawk,Native,Raptors,1.0
+02/05/2019 03:45:00 PM,Manhattan,Central Park,Red-Eared Slider,Domestic,Domestic,1.0
+02/05/2019 09:15:00 AM,Manhattan,Randall's Island Park,Opossum,Native,Small Mammals-non RVS,1.0
+02/03/2019 09:00:00 AM,Manhattan,Riverside Park,Squirrel,Native,Small Mammals-RVS,1.0
+02/01/2019 04:15:00 PM,Queens,Alley Pond Park,Raccoon,Native,Small Mammals-RVS,1.0
+01/29/2019 09:30:00 AM,Brooklyn,Dyker Beach Park,Skunk,Native,Small Mammals-RVS,1.0
+01/23/2019 04:00:00 PM,Bronx,Pelham Bay Park,Skunk,Native,Small Mammals-RVS,1.0
+01/30/2019 02:11:00 AM,Manhattan,Central Park,Canada Goose,Native,Birds,1.0
+01/30/2019 11:30:00 AM,Queens,Flushing Fields,Opossum,Native,Small Mammals-non RVS,1.0
+01/26/2019 10:00:00 AM,Queens,Forest Park,Raccoon,Native,Small Mammals-RVS,0.0
+01/29/2019 07:00:00 AM,Manhattan,Riverside Park,Raccoon,Native,Small Mammals-RVS,1.0
+01/27/2019 04:00:00 PM,Brooklyn,Marine Park,Herring Gull,Native,Birds,1.0
+01/25/2019 04:00:00 PM,Queens,Udall's Park Preserve,Raccoon,Native,Small Mammals-RVS,3.0
+01/25/2019 12:30:00 PM,Staten Island,Clove Lakes Park,Canada Goose,Native,Birds,1.0
+01/24/2019 02:00:00 PM,Manhattan,Randall's Island Park,Raccoon,Native,Small Mammals-RVS,1.0
+11/15/2018 11:00:00 AM,Manhattan,NYC Parking Garage,Woodcock,Native,Birds,1.0
+01/24/2019 10:00:00 AM,Queens,Queens Farm Park,Red-Tailed Hawk,Native,Raptors,1.0
+01/23/2019 03:10:00 PM,Bronx,Van Cortlandt Park,Swan,Invasive,Birds,1.0
+01/22/2019 06:00:00 PM,Manhattan,Central Park,Duck,Native,Birds,1.0
+01/21/2019 08:30:00 AM,Staten Island,Blue Heron Park,White Throated Sparrow,Native,Birds,1.0
+01/20/2019 12:15:00 PM,Brooklyn,Marine Park,Blue Jay,Native,Birds,1.0
+01/18/2019 03:30:00 PM,Manhattan,Ft Tryon Park,Guinea Pigs,Domestic,Domestic,2.0
+01/18/2019 03:00:00 PM,Manhattan,Central Park,Red-Tailed Hawk,Native,Raptors,2.0
+01/16/2019 10:00:00 AM,Manhattan,Central Park,Raccoon,Native,Small Mammals-RVS,1.0
+01/15/2019 12:45:00 PM,Bronx,Crotona Park,Deer,Native,Deer,1.0
+01/14/2019 03:00:00 PM,Brooklyn,Calvert Vaux Park,Swan,Invasive,Birds,1.0
+01/12/2019 04:25:00 PM,Staten Island,Midland Playground,Deer,Native,Deer,1.0
+01/12/2019 12:00:00 PM,Brooklyn,Prospect Park,Raccoon,Native,Small Mammals-RVS,1.0
+01/12/2019 09:00:00 AM,Manhattan,St. Nicholas Park,Red-Tailed Hawk,Native,Raptors,1.0
+01/12/2019 01:00:00 AM,Manhattan,J. Hood Wright Park,Raccoon,Native,Small Mammals-RVS,0.0
+01/08/2019 02:32:00 PM,Staten Island,Joseph Manna Park,Deer,Native,Deer,1.0
+01/08/2019 09:30:00 AM,Staten Island,Joseph Manna Park,Deer,Native,Deer,1.0
+01/07/2019 03:00:00 PM,Bronx,Pelham Bay Park,Skunk,Native,Small Mammals-RVS,1.0
+01/07/2019 12:20:00 PM,Queens,Bowne Park,Red-Eared Slider,Invasive,Terrestrial Reptile or Amphibian,3.0
+01/07/2019 08:25:00 AM,Staten Island,Willowbrook Park,Chicken,Domestic,Domestic,1.0
+01/06/2019 02:30:00 PM,Brooklyn,Van Dyke Playground,Cat,Domestic,Domestic,1.0
+01/06/2019 01:50:00 PM,Manhattan,Inwood Hill Park,Racoon,Native,Small Mammals-RVS,1.0
+01/06/2019 08:30:00 AM,Manhattan,Central Park,Squirrel,Native,Small Mammals-RVS,1.0
+01/05/2019 02:20:00 PM,Manhattan,Central Park,Chicken,Domestic,Domestic;#Birds,1.0
+01/05/2019 10:00:00 AM,Manhattan,Central Park,House Sparrow,Native,Birds,1.0
+01/04/2019 09:05:00 AM,Queens,Juniper Valley Park,Raccoon,Native,Small Mammals-RVS,1.0
+01/03/2019 03:20:00 PM,Queens,Flushing Meadows Corona Park Boathouse,Mallard Duck,Native,Birds,0.0
+01/03/2019 10:50:00 AM,Brooklyn,Fort Greene Park,Cat,Domestic,Small Mammals-RVS,1.0
+01/02/2019 04:20:00 PM,Staten Island,Blood Root Valley,Deer,Native,Deer,1.0
+01/02/2019 01:25:00 PM,Staten Island,Willowbrook Park,Canada Goose,Native,Birds,1.0
+01/02/2019 09:15:00 AM,Brooklyn,Sunset Park,Raccoon,Native,Small Mammals-RVS,1.0
+01/01/2019 11:00:00 AM,Brooklyn,Marine Park,Chicken,Domestic,Domestic,3.0
+12/31/2018 01:00:00 PM,Bronx,Mullaly Park,Chicken,Domestic,Domestic,1.0
+12/30/2018 11:30:00 AM,Brooklyn,Bushwick Inlet Park,Seal,Native,Marine Mammals-seals only,1.0
+12/30/2018 11:00:00 AM,Brooklyn,Marine Park,Raccoon,Native,Small Mammals-RVS,1.0
+12/28/2018 02:30:00 PM,Queens,Harvey Park,Sharp Shinned Hawk,Native,Raptors,1.0
+12/29/2018 01:15:00 PM,Queens,Juniper Valley Park,Raccoon,Native,Small Mammals-RVS,1.0
+12/27/2018 09:30:00 AM,Bronx,Orchard Beach,Seal,Native,Marine Mammals-seals only,1.0
+12/27/2018 08:45:00 AM,Queens,Juniper Valley Park,Squirrel,Native,Small Mammals-non RVS,1.0
+12/26/2018 01:30:00 PM,Brooklyn,Prospect Park,Raccoon,Native,Small Mammals-RVS,1.0
+12/26/2018 10:30:00 AM,Queens,Alley Pond Park,Raccoon,Native,Small Mammals-RVS,1.0
+12/26/2018 11:00:00 AM,Brooklyn,Marine Park,Raccoon,Native,Small Mammals-RVS,1.0
+12/23/2018 03:47:00 PM,Staten Island,Willowbrook Park,Canada Goose,Native,Birds,1.0
+12/23/2018 10:15:00 AM,Bronx,Pelham Bay Park,Coyote,Native,Coyotes,1.0
+12/23/2018 09:10:00 AM,Manhattan,Hamilton Fish Recreation Center,Red-Tailed Hawk,Native,Raptors,1.0
+12/23/2018 09:05:00 AM,Manhattan,Thomas Jefferson Recreation Center,Coyote,Native,Coyotes,1.0
+12/20/2018 03:30:00 PM,Queens,Cunningham Park,Raccoon,Native,Small Mammals-RVS,0.0
+12/20/2018 10:00:00 AM,Bronx,Pelham Bay Park,Raccoon,Native,Small Mammals-RVS,1.0
+12/18/2018 05:00:00 PM,Brooklyn,Prospect Park,Gull,Native,Birds,1.0
+12/19/2018 01:10:00 PM,Manhattan,Central Park,Raccoon,Native,Small Mammals-RVS,1.0
+12/18/2018 09:30:00 AM,Manhattan,Central Park,Northern Saw-Whet Owl,Native,Raptors,1.0
+12/18/2018 09:00:00 AM,Queens,Frederick B. Judge Playground,Chicken,Domestic,Domestic,1.0
+12/17/2018 09:00:00 AM,Brooklyn,Prospect Park,Raccoon,Native,Small Mammals-RVS,1.0
+12/16/2018 09:20:00 AM,Brooklyn,Marcy Playground,Cat,Domestic,Domestic,2.0
+12/14/2018 11:00:00 AM,Manhattan,Inwood Hill Park,Chicken,Domestic,Birds,1.0
+12/14/2018 08:45:00 AM,Manhattan,Riverside Park,Raccoon,Native,Small Mammals-RVS,1.0
+12/14/2018 09:15:00 AM,Brooklyn,Marine Park,Squirrel,Native,Small Mammals-non RVS,1.0
+12/11/2018 12:50:00 PM,Brooklyn,Marine Park,Squirrel,Native,Small Mammals-non RVS,1.0
+12/13/2018 09:24:00 AM,Brooklyn,Marine Park,Raccoon,Native,Small Mammals-RVS,1.0
+12/12/2018 09:00:00 AM,Queens,Juniper Valley Park,Raccoon,Native,Small Mammals-RVS,1.0
+12/11/2018 01:35:00 PM,Manhattan,Bowling Green,Ring-Billed Gull,Native,Birds,1.0
+12/04/2018 09:30:00 AM,Staten Island,Willowbrook Park,Canada Goose,Native,Birds,1.0
+12/11/2018 10:30:00 AM,Manhattan,Central Park,Duck (Species Unknown),Other,Birds,1.0
+12/07/2018 03:30:00 PM,Staten Island,Conference House Park,Squirrel,Native,Small Mammals-non RVS,1.0
+12/07/2018 08:30:00 AM,Brooklyn,Fort Hamilton Recreation Center,Cooper's Hawk,Native,Raptors,1.0
+12/04/2018 09:30:00 AM,Staten Island,Willowbrook Park,Canada Goose,Native,Birds,1.0
+12/06/2018 03:00:00 PM,Brooklyn,Prospect Park,Raccoon,Domestic,Small Mammals-RVS,1.0
+12/06/2018 11:00:00 AM,Bronx,Orchard Beach,Raccoon,Native,Small Mammals-RVS,1.0
+12/04/2018 09:30:00 AM,Staten Island,Willowbrook Park,Canada Goose,Native,Birds,1.0
+12/06/2018 09:04:00 AM,Queens,Little Bay Park,Raccoon,Native,Small Mammals-RVS,1.0
+12/05/2018 10:15:00 AM,Queens,Alley Pond Park,Raccoon,Native,Domestic;#Small Mammals-RVS,0.0
+12/04/2018 09:30:00 AM,Staten Island,Willowbrook Park,Canada Goose,Native,Birds,1.0
+12/05/2018 08:30:00 AM,Brooklyn,Marine Park,Swan,Invasive,Birds,1.0
+12/04/2018 08:30:00 AM,Brooklyn,Marine Park,Swan,Invasive,Birds,1.0
+12/03/2018 11:30:00 AM,Brooklyn,Marine Park,Swan,Invasive,Birds,1.0
+12/04/2018 10:30:00 AM,Brooklyn,Prospect Park,Raccoon,Native,Small Mammals-RVS,1.0
+12/03/2018 03:30:00 PM,Brooklyn,Prospect Park,Raccoon,Native,Small Mammals-RVS,1.0
+12/03/2018 01:00:00 PM,Brooklyn,Prospect Park,Raccoon,Native,Small Mammals-RVS,2.0
+12/03/2018 10:00:00 AM,Brooklyn,Prospect Park,Raccoon,Native,Small Mammals-RVS,1.0
+12/04/2018 09:30:00 AM,Staten Island,Willowbrook Park,Canada Goose,Native,Birds,1.0
+12/03/2018 12:30:00 PM,Manhattan,Inwood Hill Park,Skunk,Native,Small Mammals-RVS,1.0
+12/03/2018 11:30:00 AM,Bronx,Van Cortlandt Park,Canada Goose,Native,Birds,1.0
+12/03/2018 09:00:00 AM,Manhattan,Jacob H. Schiff Playground,Raccoon,Native,Small Mammals-RVS,0.0
+12/02/2018 02:00:00 PM,Brooklyn,Prospect Park,Raccoon,Native,Small Mammals-RVS,1.0
+12/01/2018 01:20:00 PM,Queens,Police Officer Edward Byrne Park,Chicken,Domestic,Domestic,1.0
+11/30/2018 04:30:00 PM,Staten Island,Reed's Basket Willow Swamp Park,Deer,Native,Deer,1.0
+11/30/2018 03:00:00 PM,Manhattan,private property,Woodcock,Native,Birds,1.0
+11/30/2018 11:00:00 AM,Manhattan,Inwood Hill Park,Chicken,Domestic,Birds,1.0
+11/30/2018 08:30:00 AM,Staten Island,Ocean Breeze Track & Field Athletic Complex,Opossum,Native,Small Mammals-non RVS,1.0
+11/30/2018 08:45:00 AM,Brooklyn,Prospect Park,Raccoon,Native,Small Mammals-RVS,1.0
+11/29/2018 01:20:00 PM,Brooklyn,Prospect Park,Raccoon,Native,Small Mammals-RVS,1.0
+11/29/2018 01:40:00 PM,Queens,Forest Park,Skunk,Native,Small Mammals-RVS,1.0
+11/29/2018 07:34:00 AM,Queens,Frank Golden Park,Raccoon,Native,Small Mammals-RVS,1.0
+11/28/2018 10:15:00 AM,Manhattan,Central Park,Canada Goose,Native,Birds,1.0
+11/22/2018 04:15:00 PM,Brooklyn,Prospect Park,Raccoon,Native,Small Mammals-RVS,1.0
+11/26/2018 09:40:00 AM,Brooklyn,Prospect Park,Raccoon,Native,Small Mammals-RVS,1.0
+11/26/2018 08:45:00 AM,Brooklyn,Prospect Park,Raccoon,Native,Small Mammals-RVS,1.0
+11/25/2018 12:30:00 PM,Brooklyn,Prospect Park,Turtle,Other,Terrestrial Reptile or Amphibian,1.0
+11/25/2018 10:30:00 AM,Brooklyn,Prospect Park,Raccoon,Native,Small Mammals-RVS,1.0
+11/21/2018 04:00:00 PM,Brooklyn,Prospect Park,Raccoon,Native,Small Mammals-RVS,0.0
+11/23/2018 01:20:00 PM,Brooklyn,Prospect Park,Raccoon,Native,Small Mammals-RVS,1.0
+11/23/2018 12:45:00 PM,Brooklyn,Prospect Park,Raccoon,Native,Small Mammals-RVS,0.0
+11/24/2018 01:00:00 PM,Brooklyn,Prospect Park,Ruddy Duck,Native,Birds,1.0
+11/21/2018 04:10:00 PM,Manhattan,Fort Tryon Park,Red-Tailed Hawk,Native,Raptors,1.0
+11/18/2018 01:45:00 PM,Brooklyn,Prospect Park,Raccoon,Native,Small Mammals-RVS,1.0
+11/22/2018 02:18:00 PM,Queens,Forest Park,Raccoon,Native,Small Mammals-RVS,1.0
+11/22/2018 02:00:00 PM,Brooklyn,Prospect Park,Raccoon,Native,Small Mammals-RVS,1.0
+11/22/2018 09:30:00 AM,Brooklyn,Prospect Park,Raccoon,Native,Small Mammals-RVS,1.0
+11/21/2018 02:15:00 PM,Brooklyn,Prospect Park,Raccoon,Native,Small Mammals-RVS,1.0
+11/21/2018 10:00:00 AM,Manhattan,Central Park,Raccoon,Native,Small Mammals-RVS,1.0
+11/21/2018 10:00:00 AM,Manhattan,Central Park,Opossum,Native,Small Mammals-non RVS,1.0
+11/21/2018 09:30:00 AM,Manhattan,Central Park,Bat,Native,Small Mammals-RVS,1.0
+11/20/2018 09:00:00 AM,Brooklyn,Prospect Park,Raccoon,Native,Small Mammals-RVS,1.0
+11/19/2018 08:15:00 AM,Brooklyn,Prospect Park,Raccoon,Native,Small Mammals-RVS,1.0
+11/19/2018 12:00:00 AM,Brooklyn,Prospect Park,Raccoon,Native,Small Mammals-RVS,1.0
+11/19/2018 03:00:00 PM,Manhattan,Central Park,Raccoon,Native,Small Mammals-RVS,1.0
+11/19/2018 11:30:00 AM,Brooklyn,Prospect Park,Raccoon,Native,Small Mammals-RVS,1.0
+11/19/2018 11:30:00 AM,Brooklyn,Prospect Park,Raccoon,Native,Small Mammals-RVS,1.0
+11/19/2018 10:45:00 AM,Brooklyn,Prospect Park,Raccoon,Native,Small Mammals-RVS,1.0
+11/18/2018 04:00:00 PM,Brooklyn,Prospect Park,Raccoon,Native,Small Mammals-RVS,1.0
+11/18/2018 11:45:00 AM,Brooklyn,Marine Park,Raccoon,Native,Small Mammals-RVS,1.0
+11/18/2018 10:45:00 AM,Bronx,Taylor Playground,Red-Eared Slider,Exotic,Marine Reptiles,1.0
+11/17/2018 10:15:00 AM,Brooklyn,Marine Park,Raccoon,Native,Small Mammals-RVS,1.0
+11/17/2018 09:15:00 AM,Brooklyn,Prospect Park,Raccoon,Native,Small Mammals-RVS,1.0
+11/17/2018 09:05:00 AM,Brooklyn,Prospect Park,Raccoon,Native,Small Mammals-RVS,1.0
+11/16/2018 12:30:00 PM,Queens,Fort Totten Park,Chicken,Domestic,Domestic,1.0
+11/16/2018 10:45:00 AM,Queens,Forest Park,Bat,Native,Small Mammals-RVS,1.0
+11/15/2018 12:30:00 PM,Brooklyn,Prospect Park,Raccoon,Native,Small Mammals-RVS,1.0
+11/15/2018 10:20:00 AM,Brooklyn,Owl's Head Park,Raccoon,Native,Small Mammals-RVS,1.0
+11/15/2018 09:45:00 AM,Brooklyn,Prospect Park,Raccoon,Native,Small Mammals-RVS,1.0
+11/15/2018 08:25:00 AM,Brooklyn,Prospect Park,Raccoon,Native,Small Mammals-RVS,1.0
+11/14/2018 01:30:00 PM,Manhattan,Hudson Yards entrance to Highline Park,Red-Tailed Hawk,Native,Raptors,1.0
+11/14/2018 10:15:00 AM,Brooklyn,Prospect Park,Raccoon,Native,Small Mammals-RVS,1.0
+11/14/2018 12:30:00 PM,Brooklyn,Marine Park,Swan,Invasive,Birds,1.0
+11/14/2018 12:00:00 PM,Queens,Alley Pond Park,Raccoon,Native,Small Mammals-RVS,1.0
+11/13/2018 03:45:00 PM,Manhattan,Mercer Playground,Bat,Native,Small Mammals-RVS,1.0
+11/13/2018 01:45:00 PM,Manhattan,Sherman Creek,Herring Gull,Native,Birds,1.0
+11/13/2018 01:30:00 AM,Brooklyn,Prospect Park,Raccoon,Native,Small Mammals-RVS,1.0
+11/13/2018 10:00:00 AM,Manhattan,Central Park,Cormorant,Native,Birds,1.0
+11/13/2018 12:30:00 PM,Queens,Forest Park,Raccoon,Native,Small Mammals-RVS,1.0
+11/12/2018 11:15:00 AM,Bronx,Pelham Bay Park,Raccoon,Native,Small Mammals-RVS,1.0
+11/11/2018 05:30:00 PM,Brooklyn,Marine Park,Hawk,Native,Raptors,1.0
+11/12/2018 10:15:00 AM,Brooklyn,Prospect Park,Raccoon,Native,Small Mammals-RVS,1.0
+11/12/2018 09:00:00 AM,Brooklyn,Prospect Park,Raccoon,Native,Small Mammals-RVS,1.0
+11/11/2018 01:50:00 PM,Brooklyn,Prospect Park,Raccoon,Native,Small Mammals-RVS,1.0
+11/11/2018 10:00:00 AM,Brooklyn,Prospect Park,Raccoon,Native,Small Mammals-RVS,1.0
+11/10/2018 03:00:00 PM,Manhattan,Inwood Hill Park,Chicken,Domestic,Birds,1.0
+11/10/2018 09:25:00 AM,Manhattan,Bryant Park,Silver-Haired Bat,Native,Small Mammals-RVS,1.0
+11/10/2018 11:31:00 AM,Manhattan,Inwood Hill Park,Raccoon,Native,Small Mammals-RVS,1.0
+11/09/2018 01:06:00 PM,Brooklyn,Prospect Park,Raccoon,Native,Small Mammals-RVS,1.0
+11/09/2018 12:22:00 PM,Brooklyn,Prospect Park,Raccoon,Native,Small Mammals-RVS,1.0
+11/09/2018 08:30:00 AM,Brooklyn,Prospect Park,Raccoon,Native,Small Mammals-RVS,1.0
+11/09/2018 08:30:00 AM,Brooklyn,Prospect Park,Raccoon,Native,Small Mammals-RVS,1.0
+11/09/2018 08:30:00 AM,Brooklyn,Prospect Park,Raccoon,Native,Small Mammals-RVS,1.0
+11/09/2018 09:00:00 AM,Brooklyn,Bushwick Inlet,Chinese Silky Chicken,Exotic,Birds,1.0
+11/08/2018 03:10:00 PM,Manhattan,Central Park,Squirrel,Native,Small Mammals-non RVS,1.0
+11/08/2018 01:30:00 PM,Brooklyn,Prospect Park,Rabbit,Domestic,Domestic,1.0
+11/07/2018 11:30:00 AM,Brooklyn,Prospect Park,Raccoon,Native,Small Mammals-RVS,1.0
+11/07/2018 10:45:00 AM,Brooklyn,Prospect Park,Raccoon,Native,Small Mammals-RVS,1.0
+11/07/2018 09:00:00 AM,Brooklyn,Prospect Park,Raccoon,Native,Small Mammals-RVS,1.0
+11/07/2018 02:20:00 PM,Bronx,Williamsbridge Oval,Pigeon,Native,Birds,1.0
+11/07/2018 08:15:00 AM,Brooklyn,Prospect Park,Raccoon,Native,Small Mammals-RVS,1.0
+11/07/2018 08:15:00 AM,Brooklyn,Prospect Park,Raccoon,Native,Small Mammals-RVS,1.0
+11/06/2018 09:15:00 AM,Brooklyn,Prospect Park,Raccoon,Native,Small Mammals-RVS,1.0
+11/06/2018 09:15:00 AM,Brooklyn,Prospect Park,Raccoon,Native,Small Mammals-RVS,1.0
+11/06/2018 09:15:00 AM,Brooklyn,Prospect Park,Raccoon,Native,Small Mammals-RVS,1.0
+11/05/2018 02:07:00 PM,Manhattan,Riverside Park South,Canada Goose,Native,Birds,1.0
+11/03/2018 05:00:00 PM,Staten Island,Willowbrook Park,Domestic Duck,Domestic,Domestic,11.0
+11/04/2018 10:30:00 AM,Brooklyn,Prospect Park,Raccoon,Native,Small Mammals-RVS,1.0
+11/04/2018 10:00:00 AM,Brooklyn,Marine Park,Muskrat,Native,Small Mammals-non RVS,2.0
+11/03/2018 10:00:00 AM,Bronx,Seton Falls Park,Opossum,Native,Small Mammals-non RVS,0.0
+10/29/2018 11:00:00 AM,Bronx,Matthews Muliner Playground,Raccoon,Native,Small Mammals-RVS,0.0
+11/03/2018 01:30:00 PM,Brooklyn,Prospect Park,Raccoon,Native,Small Mammals-RVS,1.0
+11/03/2018 12:00:00 PM,Brooklyn,Prospect Park,Raccoon,Native,Small Mammals-RVS,1.0
+11/03/2018 09:50:00 AM,Brooklyn,Prospect Park,Raccoon,Native,Small Mammals-RVS,1.0
+11/03/2018 09:00:00 AM,Brooklyn,Prospect Park,Raccoon,Native,Small Mammals-RVS,1.0
+11/02/2018 03:03:00 PM,Brooklyn,McCarren Park,Yellow Bellied Sapsucker,Native,Birds,1.0
+11/03/2018 03:32:00 PM,Queens,Crocheron Park,Raccoon,Native,Small Mammals-RVS,1.0
+11/02/2018 02:30:00 PM,Manhattan,Randall's Island Park,Herring Gull,Native,Birds,1.0
+11/02/2018 11:00:00 AM,Queens,Astoria Park,Red-Bellied Woodpecker,Native,Birds,1.0
+11/02/2018 10:30:00 AM,Brooklyn,Prospect Park,Raccoon,Native,Small Mammals-RVS,1.0
+11/02/2018 09:30:00 AM,Brooklyn,Prospect Park,Raccoon,Native,Small Mammals-RVS,1.0
+11/02/2018 09:00:00 AM,Brooklyn,Prospect Park,Raccoon,Native,Small Mammals-RVS,1.0
+11/02/2018 12:00:00 AM,Brooklyn,Prospect Park,Raccoon,Native,Small Mammals-RVS,1.0
+11/02/2018 08:30:00 AM,Brooklyn,Prospect Park,Raccoon,Native,Small Mammals-RVS,1.0
+11/01/2018 09:00:00 AM,Manhattan,Central Park,Gull,Native,Birds,1.0
+11/01/2018 11:15:00 AM,Bronx,Orchard Beach,Deer,Native,Deer,1.0
+11/01/2018 10:30:00 AM,Bronx,Orchard Beach,Raccoon,Native,Small Mammals-RVS,1.0
+11/01/2018 01:00:00 PM,Brooklyn,Prospect Park,Raccoon,Native,Small Mammals-RVS,1.0
+11/01/2018 11:25:00 AM,Brooklyn,Prospect Park,Raccoon,Native,Small Mammals-RVS,1.0
+11/01/2018 11:20:00 AM,Brooklyn,Prospect Park,Raccoon,Native,Small Mammals-RVS,1.0
+11/01/2018 09:26:00 AM,Brooklyn,Prospect Park,Raccoon,Native,Small Mammals-RVS,1.0
+11/01/2018 09:00:00 AM,Queens,Cunningham Park,Raccoon,Native,Small Mammals-RVS,1.0
+11/01/2018 09:00:00 AM,Queens,Alley Pond Park,Raccoon,Native,Small Mammals-RVS,1.0
+10/31/2018 10:40:00 AM,Manhattan,Morningside park,Blue Jay,Native,Birds,1.0
+10/09/2018 11:00:00 AM,Manhattan,Union Square Park,Warbler,Native,Birds,1.0
+10/30/2018 02:30:00 PM,Manhattan,Bellevue South Park,Red-Tailed Hawk,Native,Raptors,1.0
+10/31/2018 12:43:00 PM,Queens,Alley Pond Park,Raccoon,Native,Small Mammals-RVS,1.0
+10/30/2018 04:30:00 PM,Brooklyn,Prospect Park,Raccoon,Native,Small Mammals-RVS,1.0
+10/31/2018 10:00:00 AM,Brooklyn,Prospect Park,Raccoon,Native,Small Mammals-RVS,1.0
+10/31/2018 09:40:00 AM,Brooklyn,Prospect Park,Raccoon,Native,Small Mammals-RVS,1.0
+10/31/2018 09:00:00 AM,Brooklyn,Prospect Park,Raccoon,Native,Small Mammals-RVS,1.0
+10/31/2018 10:30:00 AM,Staten Island,Bloomingdale Park,Deer,Native,Deer,1.0
+10/30/2018 11:15:00 AM,Brooklyn,Prospect Park,Raccoon,Native,Small Mammals-RVS,1.0
+10/30/2018 12:00:00 PM,Manhattan,Riverside Park,Raccoon,Native,Small Mammals-RVS,0.0
+10/30/2018 01:25:00 PM,Brooklyn,Prospect Park,Raccoon,Native,Small Mammals-RVS,1.0
+10/29/2018 01:30:00 PM,Staten Island,Seguine Mansion,Raccoon,Native,Small Mammals-RVS,1.0
+10/29/2018 12:00:00 PM,Brooklyn,Prospect Park,Dog,Domestic,Domestic,1.0
+10/29/2018 11:00:00 AM,Brooklyn,Prospect Park,Raccoon,Native,Small Mammals-RVS,1.0
+10/29/2018 11:00:00 AM,Brooklyn,Prospect Park,Raccoon,Native,Small Mammals-RVS,1.0
+10/29/2018 10:15:00 AM,Queens,Forest Park,Dog,Domestic,Domestic,1.0
+10/29/2018 09:25:00 AM,Bronx,Orchard Beach,Mute Swan,Invasive,Birds,1.0
+10/28/2018 11:50:00 AM,Brooklyn,Prospect Park,Raccoon,Native,Small Mammals-RVS,1.0
+10/28/2018 10:45:00 AM,Brooklyn,Prospect Park,Raccoon,Native,Small Mammals-RVS,1.0
+10/26/2018 04:50:00 PM,Staten Island,Willowbrook Park,Deer,Native,Deer,1.0
+10/26/2018 04:00:00 PM,Staten Island,Industrial Park,Deer,Native,Deer,1.0
+10/26/2018 01:30:00 PM,Brooklyn,Prospect Park,Raccoon,Native,Small Mammals-RVS,1.0
+10/26/2018 12:10:00 PM,Staten Island,Greenbelt Recreation Center,Cormorant,Native,Birds,1.0
+10/26/2018 10:00:00 AM,Manhattan,5 East 102nd St,Woodcock,Native,Birds,1.0
+10/25/2018 12:00:00 PM,Brooklyn,Prospect Park,Raccoon,Native,Small Mammals-RVS,1.0
+10/25/2018 09:30:00 AM,Brooklyn,Prospect Park,Raccoon,Native,Small Mammals-RVS,1.0
+10/25/2018 09:30:00 AM,Brooklyn,Prospect Park,Raccoon,Native,Small Mammals-RVS,1.0
+10/24/2018 05:20:00 PM,Queens,Cunningham Park,Raccoon,Native,Small Mammals-RVS,1.0
+10/19/2018 03:20:00 PM,Brooklyn,Garden Playground,Canada Goose,Native,Birds,9.0
+10/24/2018 12:15:00 PM,Brooklyn,Prospect Park,Raccoon,Native,Small Mammals-RVS,1.0
+10/24/2018 11:00:00 AM,Brooklyn,Prospect Park,Raccoon,Native,Small Mammals-RVS,1.0
+10/24/2018 08:00:00 AM,Brooklyn,Prospect Park,Raccoon,Native,Small Mammals-RVS,1.0
+10/23/2018 04:45:00 PM,Brooklyn,Prospect Park,Raccoon,Native,Small Mammals-RVS,1.0
+10/23/2018 01:00:00 PM,Bronx,Riverdale Playground,Cat,Domestic,Domestic,1.0
+10/23/2018 03:40:00 PM,Staten Island,Greenbelt Recreation Center,Groundhog,Native,Small Mammals-non RVS,1.0
+10/23/2018 02:30:00 PM,Manhattan,Morningside Park,Raccoon,Native,Small Mammals-RVS,1.0
+10/23/2018 11:00:00 AM,Brooklyn,Prospect Park,Raccoon,Native,Small Mammals-RVS,1.0
+10/23/2018 09:00:00 AM,Queens,Linnaeus Park,Raccoon,Native,Small Mammals-RVS,1.0
+10/22/2018 11:50:00 AM,Staten Island,LaTourette Park & Golf Course,White Tailed Deer,Native,Deer,1.0
+10/21/2018 08:45:00 AM,Brooklyn,Prospect Park,Raccoon,Native,Small Mammals-RVS,1.0
+10/01/2018 11:30:00 AM,Brooklyn,Red Hook Recreation Area,Gray Squirrel,Native,Small Mammals-non RVS,1.0
+10/21/2018 05:00:00 PM,Brooklyn,Marine Park,Brant,Native,Birds,1.0
+10/21/2018 10:00:00 AM,Bronx,Pelham Bay Park,Cat,Domestic,Domestic,1.0
+10/19/2018 12:00:00 PM,Queens,Playground Eighty LXXX,Raccoon,Native,Small Mammals-RVS,0.0
+10/20/2018 09:30:00 AM,Brooklyn,Prospect Park,Goose - White Pygmy,Native,Birds,1.0
+10/19/2018 11:30:00 AM,Brooklyn,Prospect Park,Mute Swan,Invasive,Birds,1.0
+10/19/2018 09:30:00 AM,Staten Island,Westerleigh Park,Deer,Native,Deer,1.0
+10/19/2018 09:10:00 AM,Brooklyn,Prospect Park,Raccoon,Native,Small Mammals-RVS,0.0
+10/18/2018 01:54:00 PM,Brooklyn,Lincoln Terrace Park,Cat,Domestic,Domestic,0.0
+10/18/2018 12:45:00 PM,Brooklyn,Prospect Park,Raccoon,Native,Small Mammals-RVS,1.0
+10/18/2018 08:30:00 AM,Brooklyn,Prospect Park,Raccoon,Native,Small Mammals-RVS,1.0
+10/17/2018 02:00:00 PM,Brooklyn,Prospect Park,Raccoon,Native,Small Mammals-RVS,1.0
+10/17/2018 11:15:00 AM,Manhattan,Carl Schurz Park,Raccoon,Native,Small Mammals-RVS,1.0
+10/17/2018 10:00:00 AM,Staten Island,Annadale Green,Raccoon,Native,Small Mammals-RVS,1.0
+10/16/2018 02:30:00 PM,Brooklyn,Brooklyn Bridge Park,Yellow Bellied Sap-Sucker,Native,Birds,1.0
+10/05/2018 12:00:00 AM,Brooklyn,Prospect Park,Raccoon,Native,Small Mammals-RVS,1.0
+10/16/2018 09:20:00 AM,Queens,Cunningham Park,Raccoon,Native,Small Mammals-RVS,1.0
+10/15/2018 01:15:00 PM,Brooklyn,Prospect Park,Raccoon,Native,Small Mammals-RVS,1.0
+10/14/2018 12:30:00 PM,Brooklyn,Prospect Park,Raccoon,Native,Small Mammals-RVS,1.0
+10/15/2018 09:00:00 AM,Brooklyn,Prospect Park,Raccoon,Native,Small Mammals-RVS,1.0
+10/15/2018 07:58:00 AM,Brooklyn,Prospect Park,Raccoon,Native,Small Mammals-RVS,1.0
+10/15/2018 08:00:00 AM,Brooklyn,Prospect Park,Raccoon,Native,Small Mammals-RVS,1.0
+10/14/2018 05:45:00 PM,Brooklyn,Prospect Park,Raccoon,Native,Small Mammals-RVS,1.0
+10/13/2018 04:00:00 PM,Brooklyn,Prospect Park,Raccoon,Native,Small Mammals-RVS,1.0
+10/11/2018 11:00:00 PM,Brooklyn,Prospect Park,Raccoon,Native,Small Mammals-RVS,1.0
+10/12/2018 05:30:00 PM,Brooklyn,Prospect Park,Raccoon,Native,Small Mammals-RVS,1.0
+10/12/2018 04:50:00 PM,Brooklyn,Prospect Park,Raccoon,Native,Small Mammals-RVS,1.0
+10/11/2018 12:30:00 PM,Manhattan,Central Park,Mandarin Duck,Exotic,Birds,1.0
+10/12/2018 02:05:00 PM,Manhattan,Central Park,Raccoon,Native,Small Mammals-RVS,1.0
+10/12/2018 10:00:00 AM,Brooklyn,Prospect Park,Raccoon,Native,Small Mammals-RVS,1.0
+10/12/2018 09:00:00 AM,Bronx,Pelham Bay Park,Raccoon,Native,Small Mammals-RVS,1.0
+10/11/2018 03:15:00 PM,Manhattan,Central Park,Mandarin Duck,Exotic,Birds,1.0
+10/11/2018 01:50:00 PM,Brooklyn,Prospect Park,Raccoon,Native,Small Mammals-RVS,1.0
+10/11/2018 12:30:00 PM,Manhattan,Central Park,Mandarin Duck,Exotic,Birds,1.0
+10/11/2018 12:30:00 PM,Manhattan,Central Park,Mandarin Duck,Exotic,Birds,1.0
+10/10/2018 08:20:00 AM,Brooklyn,Prospect Park,Raccoon,Native,Small Mammals-RVS,1.0
+10/09/2018 05:00:00 PM,Brooklyn,Prospect Park,Raccoon,Native,Small Mammals-RVS,1.0
+10/09/2018 03:00:00 PM,Staten Island,Ocean Breeze Track & Field Athletic Complex,Nashville Warbler,Native,Birds,1.0
+10/10/2018 12:40:00 PM,Staten Island,Wolfe's Pond Park,House Sparrow,Native,Birds,1.0
+10/09/2018 01:15:00 PM,Queens,Flushing Meadows Corona Park,Downy Woodpecker,Native,Birds,1.0
+10/03/2018 06:00:00 PM,Brooklyn,Marine Park,Domestic Dove,Domestic,Domestic,1.0
+10/07/2018 11:00:00 AM,Brooklyn,Prospect Park,Raccoon,Native,Small Mammals-RVS,1.0
+10/06/2018 07:30:00 PM,Brooklyn,Prospect Park,Raccoon,Native,Small Mammals-RVS,1.0
+10/06/2018 04:30:00 PM,Bronx,Van Cortlandt Park,Common Snapping Turtle,Native,Terrestrial Reptile or Amphibian,1.0
+10/05/2018 12:00:00 AM,Bronx,Van Cortlandt Park,Alligator Snapping Turtle,Exotic,Terrestrial Reptile or Amphibian,1.0
+10/04/2018 10:00:00 AM,Brooklyn,Prospect Park,Raccoon,Native,Small Mammals-RVS,1.0
+10/04/2018 09:05:00 AM,Brooklyn,Prospect Park,Raccoon,Native,Small Mammals-RVS,1.0
+10/03/2018 10:00:00 AM,Brooklyn,Prospect Park,Raccoon,Native,Small Mammals-RVS,1.0
+10/03/2018 12:05:00 PM,Queens,Alley Pond Park,Raccoon,Native,Small Mammals-RVS,1.0
+10/01/2018 03:45:00 PM,Queens,Forest Park,Raccoon,Native,Small Mammals-RVS,1.0
+10/01/2018 11:00:00 AM,Queens,Forest Park,Raccoon,Native,Small Mammals-RVS,0.0
+10/02/2018 10:30:00 AM,Brooklyn,Prospect Park,Raccoon,Native,Small Mammals-RVS,1.0
+09/30/2018 06:51:00 PM,Staten Island,Wegener Park,Deer,Native,Deer,1.0
+09/30/2018 06:52:00 PM,Manhattan,Morningside Park,Mallard Duck,Native,Birds,7.0
+10/01/2018 09:00:00 AM,Queens,Forest Park,White Tailed Deer,Native,Deer,1.0
+09/26/2018 05:05:00 PM,Brooklyn,Canarsie Park,Unknown Species,Native,Birds,1.0
+09/26/2018 03:00:00 PM,Brooklyn,Shore Park and Parkway,Opossum,Native,Small Mammals-non RVS,1.0
+09/26/2018 04:30:00 PM,Brooklyn,Shore Park and Parkway,Yellow Crowned Night Heron,Native,Birds,1.0
+09/30/2018 10:00:00 AM,Queens,Motor Parkway,Raccoon,Native,Small Mammals-RVS,1.0
+09/30/2018 08:55:00 AM,Staten Island,Dongan Playground,Opossum,Native,Small Mammals-non RVS,1.0
+09/29/2018 10:00:00 AM,Queens,Little Bay Park,Northern Gannet,Native,Birds,1.0
+09/27/2018 08:30:00 AM,Brooklyn,Prospect Park,Raccoon,Native,Small Mammals-RVS,1.0
+09/26/2018 01:13:00 PM,Brooklyn,Jacob Joffe Fields,Chicken,Domestic,Domestic,1.0
+09/26/2018 03:30:00 PM,Queens,Astoria Park,Chicken,Domestic,Domestic,1.0
+09/26/2018 11:00:00 AM,Manhattan,Hudson Park,Canada Goose,Native,Birds,1.0
+09/26/2018 03:45:00 PM,Manhattan,Central Park,Raccoon,Native,Small Mammals-RVS,1.0
+09/26/2018 11:00:00 AM,Queens,Kissena Park,Unknown,Native,Birds,1.0
+09/26/2018 09:40:00 AM,Queens,Astoria Park,Chicken,Domestic,Domestic,0.0
+09/25/2018 11:35:00 AM,Bronx,Story Playground,Chicken,Domestic,Domestic,1.0
+09/24/2018 11:00:00 AM,Queens,Cunningham Park,Chicken,Domestic,Domestic;#Birds,1.0
+09/23/2018 12:45:00 PM,Queens,Southern Stables,Raccoon,Native,Small Mammals-RVS,0.0
+09/21/2018 06:30:00 PM,Queens,Alley Pond Park,Raccoon,Native,Small Mammals-RVS,1.0
+09/20/2018 02:00:00 PM,Manhattan,Central Park,Double Crested Cormorant,Native,Birds,1.0
+09/09/2018 11:55:00 AM,Queens,Baisley Pond Park,Canada Goose,Native,Birds,1.0
+09/20/2018 11:30:00 AM,Manhattan,Central Park,Cormorant,Native,Birds,1.0
+09/19/2018 01:31:00 PM,Staten Island,Willowbrook Park,Turtle,Other,Terrestrial Reptile or Amphibian,0.0
+09/19/2018 02:48:00 PM,Manhattan,Central Park,Raccoon,Native,Small Mammals-RVS,1.0
+09/17/2018 09:15:00 AM,Queens,PS 153,Skunk,Native,Small Mammals-RVS,0.0
+09/19/2018 12:00:00 PM,Manhattan,Central Park,Raccoon,Native,Small Mammals-RVS,1.0
+09/19/2018 09:00:00 AM,Staten Island,Conference House Park,Bird Of Prey,Other,Raptors,1.0
+09/17/2018 12:20:00 PM,Manhattan,Hester St. Playground,Cooper's Hawk,Native,Raptors,1.0
+09/16/2018 07:00:00 AM,Manhattan,Central Park,Raccoon,Other,Small Mammals-RVS,1.0
+09/13/2018 04:00:00 PM,Brooklyn,Prospect Park,Raccoon,Native,Small Mammals-RVS,1.0
+09/13/2018 02:30:00 PM,Manhattan,Central Park,Mallard Duck,Native,Birds,1.0
+09/13/2018 11:30:00 AM,Queens,Cunningham Park,Raccoon,Native,Small Mammals-RVS,1.0
+09/13/2018 10:00:00 AM,Bronx,Pelham Bay Park,Raccoon,Native,Small Mammals-RVS,1.0
+09/13/2018 09:40:00 AM,Manhattan,Central Park,Rock Dove,Native,Birds,1.0
+09/11/2018 03:45:00 PM,Queens,Flushing Meadows Corona Park,Red-Tailed Hawk,Native,Raptors,1.0
+09/11/2018 02:30:00 PM,Queens,Flushing Meadows Corona Park,Dog,Domestic,Domestic,1.0
+09/11/2018 08:30:00 AM,Manhattan,Inwood Hill Park,Chicken,Domestic,Domestic,1.0
+09/11/2018 10:40:00 AM,Bronx,Merriam Playground,Cat,Domestic,Domestic,1.0
+09/10/2018 02:20:00 PM,Manhattan,Chelsea Park,Squirrel,Native,Small Mammals-RVS,1.0
+09/09/2018 11:55:00 AM,Queens,Baisley Pond Park,Canada Goose,Native,Birds,1.0
+09/09/2018 10:10:00 AM,Manhattan,Playground 103 CIII,Raccoon,Native,Small Mammals-RVS,1.0
+09/08/2018 04:30:00 PM,Staten Island,Wolfe's Pond Park,Banded Rock Pigeon,Domestic,Birds,1.0
+09/08/2018 10:00:00 AM,Brooklyn,Coffey Park,Eastern Gray Squirrel,Native,Small Mammals-non RVS,1.0
+09/08/2018 12:20:00 PM,Bronx,Pelham Bay Park,Raccoon,Native,Small Mammals-RVS,1.0
+09/07/2018 04:01:00 PM,Manhattan,Central Park,Raccoon,Native,Small Mammals-RVS,1.0
+09/07/2018 09:00:00 AM,Manhattan,Central Park,Raccoon,Native,Small Mammals-RVS,1.0
+09/07/2018 11:08:00 PM,Manhattan,Theodore Roosevelt Park,Raccoon,Native,Small Mammals-RVS,1.0
+09/06/2018 02:15:00 PM,Queens,Baisley Pond Park,Dog,Domestic,Domestic,1.0
+09/06/2018 02:50:00 PM,Manhattan,Bryant Park,Cooper's Hawk,Native,Raptors,1.0
+09/06/2018 01:15:00 PM,Manhattan,Central Park,Mallard Duck,Native,Birds,1.0
+09/06/2018 10:05:00 AM,Bronx,Pelham Bay Park,White Tailed Deer,Native,Deer,1.0
+09/06/2018 10:00:00 AM,Manhattan,Riverside Park,Painted Turtle,Invasive,Terrestrial Reptile or Amphibian,1.0
+09/05/2018 01:15:00 PM,Manhattan,Central Park,Raccoon,Native,Small Mammals-RVS,1.0
+09/05/2018 12:15:00 PM,Queens,Rockaway Beach and Boardwalk,Black Skimmer,Native,Birds,1.0
+09/05/2018 09:15:00 AM,Manhattan,Churchill School,Hummingbird,Native,Birds,1.0
+09/05/2018 09:35:00 AM,Bronx,Crotona Park,Green Heron,Native,Birds,1.0
+09/03/2018 06:11:00 PM,Brooklyn,Prospect Park,Swan,Native,Birds,1.0
+09/04/2018 02:30:00 PM,Staten Island,Ocean Breeze Track & Field Athletic Complex,Rock Dove,Native,Birds,1.0
+09/04/2018 11:00:00 AM,Staten Island,Altamont House,Black Racer Snake,Native,Terrestrial Reptile or Amphibian,1.0
+09/04/2018 09:00:00 AM,Manhattan,Central Park,Raccoon,Native,Small Mammals-RVS,1.0
+09/03/2018 03:30:00 PM,Brooklyn,Prospect Park,Canada Goose,Native,Birds,1.0
+09/03/2018 03:30:00 PM,Brooklyn,Shore Road Park,Homing Pigeon,Domestic,Domestic,1.0
+09/03/2018 04:40:00 PM,Staten Island,South Beach,2 Black Back Gulls And 1 Pigeon,Native,Birds,3.0
+09/03/2018 03:00:00 PM,Manhattan,Central Park,Raccoon,Native,Small Mammals-RVS,1.0
+09/03/2018 10:42:00 AM,Manhattan,Riverside Park,Raccoon,Native,Small Mammals-RVS,1.0
+09/03/2018 09:30:00 AM,Manhattan,Central Park,Raccoon,Native,Small Mammals-RVS,1.0
+09/03/2018 09:30:00 AM,Manhattan,Central Park,Raccoon,Native,Small Mammals-RVS,1.0
+09/03/2018 09:00:00 AM,Manhattan,Central Park,Raccoon,Native,Small Mammals-RVS,1.0
+09/02/2018 02:00:00 PM,Manhattan,Central Park,Raccoon,Native,Small Mammals-RVS,1.0
+09/02/2018 12:45:00 PM,Queens,Cunningham Park,Raccoon,Native,Small Mammals-RVS,1.0
+09/02/2018 12:00:00 AM,Manhattan,Central Park,Raccoon,Native,Small Mammals-RVS,1.0
+09/02/2018 09:15:00 AM,Manhattan,Central Park,Raccoon,Native,Small Mammals-RVS,1.0
+09/02/2018 09:00:00 AM,Manhattan,Central Park,Raccoon,Native,Small Mammals-RVS,1.0
+09/02/2018 09:00:00 AM,Manhattan,Central Park,Raccoon,Native,Small Mammals-RVS,1.0
+08/16/2018 05:00:00 PM,Manhattan,Inwood Hill Park,Deer,Native,Deer,1.0
+09/01/2018 10:15:00 AM,Manhattan,Central Park,Raccoon,Native,Small Mammals-RVS,1.0
+09/01/2018 07:45:00 AM,Manhattan,Central Park,Raccoon,Native,Small Mammals-RVS,1.0
+09/01/2018 09:05:00 AM,Manhattan,Central Park,Raccoon,Native,Small Mammals-RVS,1.0
+08/31/2018 02:15:00 PM,Manhattan,Central Park,Raccoon,Native,Small Mammals-RVS,1.0
+08/31/2018 10:30:00 AM,Manhattan,Inwood Hill Park,Cat,Domestic,Domestic,3.0
+08/31/2018 09:00:00 AM,Manhattan,Central Park,Raccoon,Native,Small Mammals-RVS,1.0
+08/29/2018 08:30:00 AM,Manhattan,Randall's Island Park,Pet Rabbit,Domestic,Small Mammals-non RVS,1.0
+08/29/2018 03:45:00 PM,Manhattan,Central Park,Raccoon,Native,Small Mammals-RVS,1.0
+08/29/2018 12:00:00 PM,Manhattan,Central Park,Raccoon,Native,Small Mammals-RVS,1.0
+08/29/2018 09:33:00 AM,Manhattan,Tompkins Square Park,Red-Tailed Hawk,Native,Raptors,1.0
+08/29/2018 08:30:00 AM,Manhattan,Central Park,Raccoon,Native,Small Mammals-RVS,1.0
+08/29/2018 08:40:00 AM,Manhattan,Central Park,Raccoon,Native,Small Mammals-RVS,1.0
+08/28/2018 10:55:00 AM,Manhattan,Central Park,Raccoon,Native,Small Mammals-RVS,1.0
+08/28/2018 10:15:00 AM,Manhattan,Central Park,Raccoon,Native,Small Mammals-RVS,1.0
+08/24/2018 08:37:00 PM,Brooklyn,Prospect Park,Pigeon,Native,Birds,1.0
+08/26/2018 12:30:00 PM,Manhattan,Central Park,Dog,Domestic,Domestic,1.0
+08/27/2018 10:30:00 AM,Manhattan,Central Park,Raccoon,Native,Small Mammals-RVS,1.0
+08/26/2018 01:47:00 PM,Manhattan,Central Park,Raccoon,Native,Small Mammals-RVS,2.0
+08/26/2018 09:00:00 AM,Manhattan,Colonel Charles Young Playground,Red-Tailed Hawk,Native,Raptors,1.0
+08/26/2018 11:50:00 AM,Manhattan,Inwood Hill Park,Deer,Native,Deer,1.0
+08/25/2018 05:30:00 PM,Manhattan,Central Park,Turtle,Invasive,Terrestrial Reptile or Amphibian,1.0
+08/25/2018 07:30:00 AM,Manhattan,Tompkins Square Park,Red-Tailed Hawk,Native,Raptors,1.0
+08/25/2018 11:38:00 AM,Manhattan,Central Park,Rabbit,Domestic,Domestic,1.0
+08/24/2018 08:42:00 PM,Queens,Baisley Pond Park,Bearded Dragon,Exotic,Terrestrial Reptile or Amphibian,1.0
+08/24/2018 04:50:00 PM,Manhattan,Central Park,Raccoon,Native,Small Mammals-RVS,1.0
+08/24/2018 04:55:00 PM,Manhattan,Central Park,Raccoon,Native,Small Mammals-RVS,2.0
+08/24/2018 03:15:00 PM,Manhattan,Theodore Roosevelt Park,Raccoon,Native,Small Mammals-RVS,1.0
+08/24/2018 01:30:00 PM,Manhattan,Central Park,Raccoon,Native,Small Mammals-RVS,1.0
+08/24/2018 07:20:00 AM,Manhattan,Central Park,Raccoon,Domestic,Small Mammals-RVS,1.0
+08/24/2018 09:00:00 AM,Manhattan,Central Park,Raccoon,Native,Small Mammals-RVS,1.0
+08/24/2018 09:00:00 AM,Manhattan,Central Park,Raccoon,Native,Small Mammals-RVS,2.0
+08/23/2018 09:25:00 AM,Manhattan,Central Park,Raccoon,Native,Small Mammals-RVS,1.0
+08/23/2018 04:00:00 PM,Manhattan,Central Park,Red-Tailed Hawk,Native,Raptors,1.0
+08/23/2018 02:00:00 PM,Manhattan,Central Park,Raccoon,Native,Small Mammals-RVS,1.0
+08/23/2018 01:00:00 PM,Manhattan,Central Park,Raccoon,Native,Small Mammals-RVS,1.0
+08/23/2018 12:40:00 PM,Manhattan,Central Park,Raccoon,Native,Small Mammals-RVS,1.0
+08/23/2018 10:00:00 AM,Manhattan,Central Park,Raccoon,Native,Small Mammals-RVS,1.0
+08/23/2018 08:40:00 AM,Manhattan,Central Park,Raccoon,Native,Small Mammals-RVS,1.0
+08/21/2018 03:00:00 PM,Queens,St. Michael's Playground,Red-Tailed Hawk,Native,Raptors,1.0
+08/20/2018 03:00:00 PM,Queens,Kissena Corridor Park,Chicken,Domestic,Domestic;#Birds,0.0
+08/21/2018 08:20:00 AM,Queens,Underhill Playground,Gerbil,Domestic,Domestic;#Small Mammals-non RVS,0.0
+08/22/2018 08:30:00 AM,Manhattan,Central Park,Raccoon,Native,Small Mammals-RVS,1.0
+08/22/2018 01:50:00 PM,Manhattan,Central Park,Raccoon,Native,Small Mammals-RVS,1.0
+08/22/2018 09:00:00 AM,Brooklyn,Cadman Plaza Park,Raccoon,Native,Small Mammals-RVS,0.0
+08/22/2018 11:56:00 AM,Manhattan,Central Park,Raccoon,Native,Small Mammals-RVS,1.0
+08/22/2018 11:14:00 AM,Manhattan,Central Park,Raccoon,Native,Small Mammals-RVS,1.0
+08/21/2018 03:41:00 PM,Manhattan,Central Park,Raccoon,Native,Small Mammals-RVS,1.0
+08/21/2018 02:43:00 PM,Manhattan,Central Park,Raccoon,Native,Small Mammals-RVS,1.0
+08/21/2018 08:00:00 AM,Manhattan,Central Park,Raccoon,Native,Small Mammals-RVS,1.0
+08/21/2018 08:00:00 AM,Manhattan,Central Park,Raccoon,Native,Small Mammals-RVS,1.0
+08/21/2018 08:00:00 AM,Manhattan,Central Park,Raccoon,Native,Small Mammals-RVS,1.0
+08/21/2018 08:00:00 AM,Manhattan,Cenral Park,Raccoon,Native,Small Mammals-RVS,1.0
+08/21/2018 08:00:00 AM,Manhattan,Central Park,Raccoon,Native,Small Mammals-RVS,1.0
+08/20/2018 03:00:00 PM,Manhattan,Central Park,Raccoon,Native,Small Mammals-RVS,1.0
+07/15/2018 07:00:00 PM,Bronx,Van Cortlandt Park,Mallard Duck,Native,Birds,5.0
+08/20/2018 01:20:00 PM,Manhattan,Central Park,Raccoon,Native,Small Mammals-RVS,1.0
+08/20/2018 09:00:00 AM,Manhattan,Central Park,Raccoon,Native,Small Mammals-RVS,1.0
+08/20/2018 11:15:00 AM,Manhattan,Central Park,Raccoon,Native,Small Mammals-RVS,1.0
+08/20/2018 10:00:00 AM,Manhattan,Central Park,Raccoon,Native,Small Mammals-RVS,1.0
+08/20/2018 11:15:00 AM,Manhattan,Central Park,Raccoon,Native,Small Mammals-RVS,1.0
+08/20/2018 09:00:00 AM,Manhattan,Central Park,Raccoon,Native,Small Mammals-RVS,1.0
+08/19/2018 04:30:00 PM,Staten Island,Midland Beach,Black Backed Gull,Native,Birds,1.0
+08/19/2018 01:00:00 PM,Manhattan,Central Park,Raccoon,Native,Small Mammals-RVS,1.0
+08/19/2018 01:20:00 PM,Manhattan,Central Park,Raccoon,Native,Small Mammals-RVS,1.0
+08/19/2018 11:40:00 AM,Manhattan,Central Park,Raccoon,Native,Small Mammals-RVS,2.0
+08/19/2018 09:30:00 AM,Manhattan,Central Park,Raccoon,Native,Small Mammals-RVS,1.0
+08/19/2018 09:00:00 AM,Manhattan,Central Park,Raccoon,Native,Small Mammals-RVS,1.0
+08/18/2018 04:30:00 PM,Manhattan,Central Park,Raccoon,Native,Small Mammals-RVS,1.0
+08/18/2018 04:00:00 PM,Manhattan,Central Park,Raccoon,Native,Small Mammals-RVS,1.0
+08/18/2018 02:00:00 PM,Bronx,Pelham Bay Park,Raccoon,Native,Small Mammals-RVS,1.0
+08/17/2018 05:05:00 PM,Manhattan,Central Park,Raccoon,Native,Small Mammals-RVS,1.0
+08/17/2018 12:00:00 PM,Queens,Rockaway Beach and Boardwalk,Gull,Native,Birds,1.0
+08/17/2018 08:30:00 AM,Manhattan,Central Park,Raccoon,Native,Small Mammals-RVS,1.0
+08/17/2018 09:00:00 AM,Manhattan,Central Park,Raccoon,Native,Small Mammals-RVS,1.0
+08/17/2018 01:00:00 PM,Manhattan,Central Park,Raccoon,Native,Small Mammals-RVS,1.0
+08/17/2018 01:00:00 PM,Manhattan,Central Park,Raccoon,Native,Small Mammals-RVS,1.0
+08/16/2018 02:30:00 PM,Brooklyn,Marine Park,Eastern Gray Squirrel,Native,Small Mammals-non RVS,4.0
+08/16/2018 09:30:00 AM,Manhattan,Inwood Hill Park,White-Tailed Deer,Native,Deer,1.0
+08/16/2018 02:50:00 PM,Manhattan,Central Park,Raccoon,Native,Small Mammals-RVS,1.0
+08/16/2018 03:00:00 PM,Manhattan,Central Park,Raccoon,Native,Small Mammals-non RVS,1.0
+08/16/2018 01:20:00 PM,Manhattan,Central Park,Raccoon,Native,Small Mammals-RVS,1.0
+08/16/2018 11:00:00 AM,Manhattan,Central Park,Raccoon,Native,Small Mammals-RVS,1.0
+08/16/2018 09:30:00 AM,Manhattan,Central Park,Raccoon,Native,Small Mammals-RVS,1.0
+08/16/2018 08:00:00 AM,Manhattan,Central Park,Raccoon,Native,Small Mammals-RVS,1.0
+08/16/2018 08:00:00 AM,Manhattan,Central Park,Raccoon,Native,Small Mammals-RVS,1.0
+08/16/2018 11:30:00 AM,Manhattan,Central Park,Raccoon,Native,Small Mammals-RVS,1.0
+08/16/2018 11:30:00 AM,Manhattan,Central Park,Raccoon,Native,Small Mammals-RVS,1.0
+08/16/2018 08:00:00 AM,Manhattan,Central Park,Raccoon,Native,Small Mammals-RVS,1.0
+08/16/2018 08:00:00 AM,Manhattan,Central Park,Raccoon,Native,Small Mammals-RVS,1.0
+08/15/2018 03:45:00 PM,Brooklyn,Marine Park,Eastern Gray Squirrel,Native,Small Mammals-non RVS,4.0
+08/15/2018 02:30:00 PM,Manhattan,Central Park,Raccoon,Native,Small Mammals-non RVS,1.0
+08/15/2018 12:07:00 PM,Manhattan,Central Park,Raccoon,Native,Small Mammals-RVS,1.0
+08/15/2018 09:45:00 AM,Manhattan,Central Park,Raccoon,Native,Small Mammals-RVS,1.0
+08/15/2018 09:00:00 AM,Manhattan,Central Park,Raccoon,Native,Small Mammals-RVS,2.0
+08/14/2018 01:00:00 PM,Queens,Rockaway Beach and Boardwalk,Herring Gull,Native,Birds,1.0
+08/15/2018 08:30:00 AM,Manhattan,Central Park,Raccoon,Native,Small Mammals-RVS,1.0
+08/14/2018 03:00:00 PM,Manhattan,Central Park,Raccoon,Native,Small Mammals-RVS,1.0
+08/14/2018 10:30:00 AM,Bronx,Pelham Bay Park,Raccoon,Native,Small Mammals-RVS,1.0
+08/14/2018 03:00:00 PM,Manhattan,Central Park,Raccoon,Native,Small Mammals-RVS,1.0
+08/14/2018 01:45:00 PM,Manhattan,Central Park,Raccoon,Native,Domestic,1.0
+08/14/2018 02:00:00 PM,Manhattan,Central Park,Raccoon,Native,Small Mammals-RVS,1.0
+08/14/2018 08:30:00 AM,Manhattan,Central Park,Raccoon,Native,Small Mammals-RVS,1.0
+08/14/2018 08:45:00 AM,Manhattan,Central Park,Raccoon,Native,Small Mammals-RVS,1.0
+08/14/2018 09:50:00 AM,Manhattan,Central Park,Raccoon,Native,Small Mammals-RVS,1.0
+08/14/2018 01:51:00 PM,Manhattan,Central Park,Raccoon,Native,Small Mammals-RVS,1.0
+08/14/2018 09:30:00 AM,Manhattan,Central Park,Raccoon,Native,Small Mammals-RVS,1.0
+08/14/2018 11:00:00 AM,Manhattan,Central Park,Raccoon,Native,Small Mammals-RVS,1.0
+08/14/2018 10:30:00 AM,Manhattan,Central Park,Raccoon,Native,Small Mammals-RVS,1.0
+08/14/2018 08:53:00 AM,Manhattan,Central Park,Raccoon,Native,Small Mammals-RVS,1.0
+08/13/2018 04:20:00 PM,Manhattan,Central Park,Raccoon,Native,Small Mammals-RVS,1.0
+08/13/2018 04:40:00 PM,Manhattan,Central Park,Raccoon,Native,Small Mammals-RVS,1.0
+08/13/2018 12:00:00 PM,Manhattan,Central Park,Raccoon,Native,Small Mammals-RVS,1.0
+08/13/2018 10:30:00 AM,Manhattan,Central Park,Raccoon,Native,Small Mammals-RVS,1.0
+08/13/2018 09:30:00 AM,Manhattan,Central Park,Raccoon,Native,Small Mammals-RVS,1.0
+08/12/2018 10:00:00 AM,Manhattan,Hudson River Park,Canada Goose,Native,Birds,1.0
+08/12/2018 11:00:00 AM,Manhattan,Central Park,Raccoon,Native,Small Mammals-non RVS,1.0
+07/31/2018 03:35:00 PM,Manhattan,Central Park,Raccoon,Native,Small Mammals-RVS,1.0
+08/12/2018 10:00:00 AM,Manhattan,Central Park,Raccoon,Native,Small Mammals-non RVS,1.0
+08/12/2018 11:30:00 AM,Manhattan,Central Park,Raccoon,Native,Small Mammals-non RVS,1.0
+08/12/2018 10:59:00 AM,Manhattan,Central Park,Raccoon,Native,Small Mammals-non RVS,1.0
+08/12/2018 08:00:00 AM,Manhattan,Central Park,Raccoon,Native,Small Mammals-non RVS,1.0
+08/11/2018 12:00:00 PM,Queens,Rockaway Beach and Boardwalk,Gull,Native,Birds,1.0
+08/11/2018 05:00:00 PM,Manhattan,Central Park,Raccoon,Native,Small Mammals-RVS,1.0
+08/10/2018 10:05:00 PM,Queens,Rockaway Beach and Boardwalk,Gull,Native,Birds,1.0
+08/11/2018 03:40:00 PM,Manhattan,Central Park,Raccoon,Native,Small Mammals-RVS,1.0
+08/11/2018 03:47:00 PM,Manhattan,Central Park,Raccoon,Native,Small Mammals-RVS,1.0
+08/11/2018 09:04:00 AM,Manhattan,Washington Market Park,Mourning Dove,Native,Birds,1.0
+08/11/2018 12:30:00 PM,Manhattan,Central Park,Raccoon,Native,Small Mammals-RVS,1.0
+08/11/2018 01:15:00 PM,Manhattan,Central Park,Raccoon,Native,Small Mammals-RVS,1.0
+08/11/2018 03:20:00 PM,Queens,Flushing Meadows Corona Park,Raccoon,Native,Small Mammals-RVS,1.0
+08/11/2018 02:52:00 PM,Manhattan,Central Park,Raccoon,Native,Small Mammals-RVS,1.0
+08/11/2018 04:10:00 PM,Manhattan,Central Park,Raccoon,Native,Small Mammals-RVS,1.0
+08/11/2018 11:54:00 AM,Manhattan,Central Park,Squirrel,Native,Small Mammals-non RVS,1.0
+08/11/2018 07:00:00 AM,Manhattan,Central Park,Raccoon,Native,Small Mammals-RVS,1.0
+08/10/2018 05:00:00 PM,Manhattan,Central Park,Raccoon,Native,Small Mammals-RVS,1.0
+08/09/2018 08:00:00 PM,Manhattan,Central Park,Raccoon,Native,Small Mammals-RVS,1.0
+08/10/2018 02:10:00 PM,Manhattan,Central Park,Raccoon,Native,Small Mammals-RVS,1.0
+08/10/2018 09:45:00 AM,Manhattan,Central  Park,Raccoon,Native,Small Mammals-RVS,1.0
+08/10/2018 09:30:00 AM,Manhattan,Central Park,Raccoon,Native,Small Mammals-RVS,1.0
+08/10/2018 09:00:00 AM,Manhattan,Central Park,Raccoon,Native,Small Mammals-RVS,1.0
+08/10/2018 01:30:00 PM,Staten Island,South Beach,Gull,Native,Birds,1.0
+08/09/2018 10:00:00 PM,Brooklyn,Prospect Park,Red-Tailed Hawk,Native,Raptors,1.0
+08/10/2018 09:10:00 AM,Queens,Fort Totten Park,Raccoon,Native,Small Mammals-RVS,3.0
+08/09/2018 04:45:00 PM,Manhattan,Central Park,Raccoon,Native,Small Mammals-RVS,1.0
+08/09/2018 06:10:00 PM,Manhattan,Central Park,Raccoon,Native,Small Mammals-RVS,1.0
+08/09/2018 04:30:00 PM,Manhattan,Central Park,Raccoon,Native,Small Mammals-RVS,1.0
+08/09/2018 02:30:00 PM,Manhattan,Central Park,Raccoon,Native,Small Mammals-RVS,1.0
+08/09/2018 09:00:00 AM,Manhattan,Central Park,Raccoon,Native,Small Mammals-RVS,1.0
+08/09/2018 07:30:00 AM,Manhattan,Central Park,Raccoon,Native,Small Mammals-RVS,1.0
+08/09/2018 11:50:00 AM,Manhattan,Central Park,Raccoon,Native,Small Mammals-RVS,1.0
+08/09/2018 08:30:00 AM,Manhattan,Central Park,Raccoon,Native,Small Mammals-RVS,1.0
+08/09/2018 08:00:00 AM,Manhattan,Central Park,Raccoon,Native,Small Mammals-RVS,1.0
+08/09/2018 08:30:00 AM,Manhattan,Central Park,Raccoon,Native,Small Mammals-RVS,1.0
+08/09/2018 08:30:00 AM,Manhattan,Central Park,Raccoon,Native,Small Mammals-RVS,1.0
+08/09/2018 08:30:00 AM,Manhattan,Central Park,Raccoon,Native,Small Mammals-RVS,1.0
+08/09/2018 08:30:00 AM,Manhattan,Central Park,Raccoon,Native,Small Mammals-RVS,1.0
+08/08/2018 01:30:00 PM,Manhattan,Central Park,Raccoon,Native,Small Mammals-non RVS,1.0
+08/08/2018 03:30:00 PM,Manhattan,Central Park,Raccoon,Native,Small Mammals-RVS,1.0
+08/08/2018 12:00:00 PM,Manhattan,Central Park,Raccoon,Native,Small Mammals-RVS,1.0
+08/08/2018 08:00:00 AM,Manhattan,Central Park,Raccoon,Native,Small Mammals-RVS,1.0
+08/08/2018 11:30:00 AM,Manhattan,Central Park,Raccoon,Native,Small Mammals-RVS,1.0
+08/08/2018 12:32:00 PM,Manhattan,Central Park,Raccoon,Native,Small Mammals-RVS,1.0
+08/06/2018 03:30:00 PM,Queens,Evergreen Park,House Sparrow,Native,Birds,1.0
+08/08/2018 01:33:00 PM,Staten Island,Ocean Breeze Track & Field Athletic Complex,Raccoon,Native,Small Mammals-RVS,0.0
+08/06/2018 04:15:00 PM,Queens,Baisley Pond Park,Iguana,Exotic,Terrestrial Reptile or Amphibian,1.0
+08/07/2018 12:00:00 PM,Manhattan,Central Park,Raccoon,Native,Small Mammals-RVS,1.0
+08/07/2018 08:00:00 AM,Manhattan,Central Park,Raccoon,Native,Small Mammals-RVS,1.0
+08/07/2018 01:30:00 PM,Manhattan,Central Park,Raccoon,Native,Small Mammals-RVS,1.0
+08/06/2018 01:30:00 PM,Manhattan,Central Park,Raccoon,Native,Small Mammals-RVS,1.0
+08/06/2018 12:30:00 PM,Manhattan,Central Park,Raccoon,Native,Small Mammals-RVS,1.0
+08/06/2018 03:17:00 PM,Manhattan,Central Park,Raccoon,Native,Small Mammals-RVS,1.0
+08/05/2018 09:30:00 AM,Manhattan,Central Park,Raccoon,Native,Small Mammals-RVS,1.0
+08/05/2018 02:40:00 PM,Manhattan,Central Park,Raccoon,Native,Small Mammals-RVS,1.0
+08/04/2018 05:35:00 PM,Manhattan,Central Park,Raccoon,Native,Small Mammals-RVS,1.0
+08/04/2018 04:30:00 PM,Manhattan,Central Park,Raccoon,Exotic,Small Mammals-RVS,1.0
+08/04/2018 04:00:00 PM,Manhattan,Central Park,Raccoon,Native,Small Mammals-RVS,1.0
+08/04/2018 03:30:00 PM,Manhattan,Central Park,Raccoon,Native,Small Mammals-RVS,1.0
+08/04/2018 08:45:00 AM,Manhattan,Central Park,Raccoon,Native,Small Mammals-RVS,1.0
+07/18/2018 09:30:00 AM,Bronx,Haffen Park,Raccoon,Native,Small Mammals-RVS,1.0
+08/04/2018 09:30:00 AM,Manhattan,Central Park,Raccoon,Native,Small Mammals-RVS,1.0
+08/04/2018 09:15:00 AM,Manhattan,Central Park,Raccoon,Native,Small Mammals-RVS,1.0
+08/04/2018 08:50:00 AM,Manhattan,Central Park,Raccoon,Native,Small Mammals-RVS,1.0
+08/04/2018 08:00:00 AM,Manhattan,Central Park,Raccoon,Native,Small Mammals-RVS,1.0
+08/03/2018 11:45:00 AM,Staten Island,Midland Beach,Herring Gull,Native,Birds,1.0
+08/03/2018 12:04:00 PM,Manhattan,Central Park,Raccoon,Native,Small Mammals-RVS,1.0
+08/02/2018 02:45:00 PM,Manhattan,Central Park,Red-Eared Slider Turtle,Domestic,Domestic,1.0
+08/03/2018 09:30:00 AM,Manhattan,Central Park,Raccoon,Native,Small Mammals-RVS,1.0
+08/03/2018 07:30:00 AM,Manhattan,Central Park,Raccoon,Native,Domestic,0.0
+08/03/2018 09:00:00 AM,Manhattan,Central Park,Raccoon,Native,Small Mammals-RVS,1.0
+08/02/2018 04:08:00 PM,Staten Island,Midland Beach,Herring Gull,Native,Birds,1.0
+08/02/2018 03:40:00 PM,Manhattan,James Finley Walk,Peregrine Falcon,Native,Raptors,1.0
+08/02/2018 03:40:00 PM,Manhattan,Central Park,Raccoon,Native,Small Mammals-RVS,1.0
+08/02/2018 12:00:00 AM,Bronx,Crotona Park,Red-Tailed Hawk,Native,Raptors,1.0
+08/02/2018 08:00:00 AM,Manhattan,Central Park,Raccoon,Native,Small Mammals-RVS,1.0
+08/02/2018 11:00:00 AM,Manhattan,Central Park,Raccoon,Native,Small Mammals-RVS,1.0
+08/01/2018 08:00:00 PM,Manhattan,Central Park,Raccoon,Native,Small Mammals-RVS,1.0
+08/02/2018 12:00:00 AM,Manhattan,Central Park,Raccoon,Native,Small Mammals-RVS,1.0
+07/31/2018 10:00:00 AM,Queens,Forest Park,Raccoon,Native,Small Mammals-RVS,1.0
+08/01/2018 02:40:00 PM,Bronx,Ferry Point Park,Kestrel,Native,Raptors,1.0
+08/01/2018 02:45:00 PM,Manhattan,Central Park,Raccoon,Native,Small Mammals-RVS,1.0
+07/20/2018 07:00:00 PM,Manhattan,Central Park,Raccoon,Native,Small Mammals-RVS,1.0
+08/01/2018 10:45:00 AM,Manhattan,Central Park,Raccoon,Native,Small Mammals-RVS,1.0
+08/01/2018 08:00:00 AM,Manhattan,Central Park,Raccoon,Native,Small Mammals-RVS,1.0
+07/31/2018 08:00:00 PM,Manhattan,Central Park,Raccoon,Native,Small Mammals-RVS,1.0
+08/01/2018 08:00:00 AM,Manhattan,Central Park,Raccoon,Native,Small Mammals-RVS,1.0
+07/21/2018 04:30:00 PM,Manhattan,Central Park,Raccoon,Native,Small Mammals-RVS,2.0
+08/01/2018 08:30:00 AM,Manhattan,Central Park,Raccoon,Native,Small Mammals-RVS,1.0
+07/31/2018 04:40:00 PM,Bronx,Magenta Playground,Raccoon,Native,Small Mammals-RVS,1.0
+07/31/2018 02:00:00 PM,Manhattan,Central Park,Raccoon,Native,Small Mammals-RVS,1.0
+07/31/2018 11:35:00 AM,Manhattan,Central Park,Raccoon,Native,Small Mammals-RVS,1.0
+07/31/2018 11:52:00 AM,Manhattan,Central Park,Raccoon,Native,Small Mammals-RVS,1.0
+07/31/2018 02:00:00 PM,Manhattan,Thomas Jefferson Recreation Center,Squirrel,Native,Small Mammals-non RVS,1.0
+07/31/2018 10:30:00 AM,Manhattan,Central Park,Raccoon,Native,Small Mammals-RVS,1.0
+07/31/2018 09:00:00 AM,Manhattan,Central Park,Raccoon,Native,Small Mammals-RVS,1.0
+07/31/2018 01:00:00 PM,Manhattan,Central Park,Raccoon,Native,Small Mammals-RVS,1.0
+07/31/2018 09:00:00 AM,Manhattan,Central Park,Raccoon,Native,Small Mammals-RVS,1.0
+07/31/2018 09:00:00 AM,Manhattan,Central Park,Raccoon,Native,Small Mammals-RVS,1.0
+07/31/2018 10:30:00 AM,Manhattan,Central Park,Raccoon,Native,Small Mammals-RVS,1.0
+07/30/2018 12:41:00 PM,Manhattan,Central Park,Raccoon,Native,Small Mammals-RVS,2.0
+07/30/2018 04:55:00 PM,Manhattan,Central Park,Raccoon,Native,Small Mammals-RVS,1.0
+07/29/2018 03:15:00 PM,Queens,Cunningham Park,Red Bat,Native,Small Mammals-RVS,1.0
+07/30/2018 12:50:00 PM,Manhattan,Central Park,Raccoon,Native,Small Mammals-RVS,1.0
+07/29/2018 01:00:00 PM,Brooklyn,McCarren Park,Red-Tailed Hawk,Native,Raptors,3.0
+07/30/2018 09:00:00 AM,Brooklyn,Fort Greene Park,Cat,Domestic,Domestic,1.0
+07/29/2018 03:20:00 PM,Manhattan,Central Park,Raccoon,Native,Small Mammals-RVS,1.0
+07/29/2018 01:00:00 PM,Manhattan,Central Park,Raccoon,Native,Small Mammals-RVS,1.0
+07/23/2018 11:15:00 AM,Manhattan,Central Park,Raccoon,Native,Small Mammals-RVS,1.0
+07/26/2018 12:30:00 PM,Manhattan,Central Park,Raccoon,Native,Small Mammals-RVS,0.0
+07/28/2018 07:45:00 AM,Manhattan,Central Park,Raccoon,Native,Small Mammals-RVS,1.0
+07/28/2018 08:36:00 PM,Manhattan,Central Park,Raccoon,Native,Small Mammals-RVS,1.0
+07/29/2018 09:48:00 AM,Manhattan,Central Park,Raccoon,Native,Small Mammals-RVS,1.0
+07/29/2018 09:06:00 AM,Manhattan,Central Park,Raccoon,Native,Small Mammals-RVS,1.0
+07/28/2018 01:45:00 PM,Manhattan,Central Park,Raccoon,Native,Small Mammals-RVS,1.0
+07/28/2018 05:10:00 PM,Manhattan,Central Park,Raccoon,Native,Small Mammals-RVS,1.0
+07/28/2018 02:33:00 PM,Manhattan,Central Park,Raccoon,Native,Small Mammals-RVS,1.0
+07/28/2018 12:30:00 PM,Queens,Socrates Sculpture Park,Opossum,Native,Small Mammals-non RVS,1.0
+07/28/2018 12:12:00 PM,Manhattan,Central Park,Raccoon,Native,Small Mammals-RVS,1.0
+07/28/2018 09:00:00 AM,Manhattan,Central Park,Raccoon,Native,Small Mammals-RVS,1.0
+07/28/2018 08:30:00 AM,Manhattan,Central Park,Raccoon,Native,Small Mammals-RVS,1.0
+07/28/2018 08:30:00 AM,Manhattan,Central Park,Raccoon,Native,Small Mammals-RVS,1.0
+07/28/2018 08:30:00 AM,Manhattan,Central Park,Raccoon,Native,Small Mammals-RVS,1.0
+07/27/2018 05:00:00 PM,Manhattan,Central Park,Raccoon,Native,Small Mammals-non RVS,1.0
+07/27/2018 10:30:00 AM,Manhattan,Central Park,Raccoon,Native,Small Mammals-RVS,1.0
+07/27/2018 10:00:00 AM,Manhattan,Central Park,Raccoon,Native,Small Mammals-RVS,1.0
+07/27/2018 09:30:00 AM,Manhattan,Central Park,Raccoon,Native,Small Mammals-RVS,1.0
+07/27/2018 09:00:00 AM,Manhattan,Central Park,Raccoon,Native,Small Mammals-RVS,1.0
+07/27/2018 08:23:00 AM,Manhattan,Central Park,Raccoon,Native,Small Mammals-RVS,1.0
+07/27/2018 12:00:00 AM,Manhattan,Central Park,Raccoon,Native,Small Mammals-RVS,1.0
+07/26/2018 12:45:00 PM,Manhattan,Central Park,Raccoon,Native,Small Mammals-RVS,1.0
+07/26/2018 11:00:00 AM,Manhattan,Central Park,Squirrel,Native,Small Mammals-non RVS,1.0
+07/26/2018 10:20:00 AM,Manhattan,Central Park,Raccoon,Native,Small Mammals-RVS,1.0
+07/26/2018 08:15:00 AM,Manhattan,Central Park,Raccoon,Native,Small Mammals-RVS,1.0
+07/25/2018 02:49:00 PM,Manhattan,Tompkins Square Park,Red-Tailed Hawk,Native,Raptors,1.0
+07/20/2018 04:00:00 PM,Manhattan,Inwood Hill Park,Mallard Duck,Native,Birds,1.0
+07/25/2018 01:15:00 PM,Manhattan,Central Park,Raccoon,Native,Small Mammals-RVS,1.0
+07/18/2018 11:15:00 AM,Manhattan,Central Park,Raccoon,Native,Small Mammals-RVS,1.0
+07/18/2018 10:18:00 AM,Manhattan,Central Park,Raccoon,Native,Small Mammals-RVS,1.0
+07/18/2018 08:21:00 AM,Manhattan,Central Park,Raccoon,Native,Small Mammals-RVS,1.0
+07/18/2018 08:21:00 AM,Manhattan,Central Park,Raccoon,Native,Small Mammals-RVS,1.0
+07/21/2018 11:30:00 AM,Manhattan,Battery Park City,Crow,Native,Birds,1.0
+07/25/2018 09:00:00 AM,Manhattan,Central Park,Raccoon,Native,Small Mammals-RVS,1.0
+07/25/2018 08:35:00 AM,Manhattan,Central Park,Raccoon,Native,Small Mammals-RVS,1.0
+07/24/2018 04:40:00 PM,Queens,Brookville Park,Raccoon,Native,Small Mammals-RVS,1.0
+07/24/2018 05:15:00 PM,Manhattan,Central Park,Raccoon,Native,Small Mammals-RVS,1.0
+07/24/2018 05:05:00 PM,Manhattan,Central Park,Raccoon,Native,Small Mammals-RVS,1.0
+07/24/2018 01:00:00 PM,Manhattan,Highbridge Recreation Center,Blue Jay,Native,Birds,1.0
+07/24/2018 12:30:00 PM,Manhattan,Central Park,Raccoon,Native,Small Mammals-RVS,1.0
+07/24/2018 01:12:00 PM,Manhattan,Central Park,Raccoon,Native,Small Mammals-RVS,1.0
+07/24/2018 01:30:00 PM,Manhattan,Central Park,Raccoon,Native,Small Mammals-RVS,1.0
+07/24/2018 09:00:00 AM,Manhattan,Central Park,Raccoon,Native,Small Mammals-RVS,1.0
+07/24/2018 08:30:00 AM,Manhattan,Central Park,Raccoon,Native,Small Mammals-RVS,1.0
+07/20/2018 02:30:00 PM,Manhattan,Riverside Park,Mallard Duck,Native,Birds,1.0
+07/23/2018 02:50:00 PM,Manhattan,Central Park,Raccoon,Native,Small Mammals-RVS,1.0
+07/17/2018 11:40:00 AM,Manhattan,Central Park,Raccoon,Native,Small Mammals-RVS,1.0
+07/23/2018 09:25:00 AM,Manhattan,Central Park,Raccoon,Native,Small Mammals-RVS,1.0
+07/23/2018 08:30:00 AM,Manhattan,Central Park,Raccoon,Native,Small Mammals-RVS,1.0
+07/22/2018 02:30:00 PM,Staten Island,Franklin D. Roosevelt Boardwalk and Beach,Double Crested Cormorant,Native,Birds,1.0
+07/21/2018 02:00:00 PM,Manhattan,Central Park,Raccoon,Native,Small Mammals-RVS,1.0
+07/21/2018 04:30:00 PM,Manhattan,Central Park,Raccoon,Native,Small Mammals-non RVS,2.0
+07/21/2018 02:15:00 PM,Manhattan,Central Park,Raccoon,Native,Small Mammals-RVS,1.0
+07/21/2018 09:00:00 AM,Manhattan,Central Park,Raccoon,Native,Small Mammals-RVS,1.0
+07/21/2018 09:15:00 AM,Manhattan,Central Park,Raccoon,Native,Small Mammals-RVS,1.0
+07/17/2018 06:15:00 PM,Staten Island,Ocean Breeze Track & Field Athletic Complex,Herring Gull,Native,Birds,1.0
+07/20/2018 02:00:00 PM,Manhattan,Central Park,Opossum,Native,Small Mammals-non RVS,1.0
+07/20/2018 02:00:00 PM,Manhattan,Central Park,Raccoon,Native,Small Mammals-RVS,1.0
+07/20/2018 02:00:00 PM,Manhattan,Central Park,Raccoon,Native,Small Mammals-RVS,1.0
+07/19/2018 10:15:00 AM,Queens,Alley Pond Park,Raccoon,Native,Small Mammals-RVS,1.0
+07/18/2018 08:35:00 PM,Queens,Alley Pond Park,Chicken,Domestic,Domestic,1.0
+07/18/2018 06:00:00 PM,Manhattan,Central Park,Raccoon,Native,Small Mammals-RVS,1.0
+07/16/2018 12:00:00 PM,Manhattan,Central Park,Raccoon,Native,Small Mammals-RVS,2.0
+07/19/2018 09:00:00 AM,Manhattan,Central Park,Raccoon,Native,Small Mammals-RVS,1.0
+07/19/2018 12:00:00 PM,Manhattan,Central Park,Raccoon,Native,Small Mammals-RVS,1.0
+07/17/2018 06:15:00 PM,Staten Island,Ocean Breeze Track & Field Athletic Complex,Herring Gull,Native,Birds,1.0
+07/18/2018 12:40:00 PM,Manhattan,West Harlem Piers,Canada Goose,Native,Birds,1.0
+07/17/2018 06:15:00 PM,Staten Island,Ocean Breeze Track & Field Athletic Complex,Herring Gull,Native,Birds,1.0
+07/18/2018 11:45:00 AM,Staten Island,Ocean Breeze Track & Field Athletic Complex,Canada Goose,Native,Birds,1.0
+07/17/2018 04:00:00 PM,Manhattan,Central Park,Raccoon,Native,Small Mammals-RVS,1.0
+07/17/2018 11:00:00 AM,Brooklyn,Mellet Playground,Eastern Gray Squirrel,Domestic,Small Mammals-non RVS,1.0
+07/16/2018 01:00:00 PM,Manhattan,Central Park,Raccoon,Native,Small Mammals-RVS,1.0
+07/12/2018 03:00:00 PM,Manhattan,Central Park,Raccoon,Native,Small Mammals-RVS,1.0
+07/16/2018 03:00:00 PM,Manhattan,Central Park,Raccoon,Native,Small Mammals-RVS,1.0
+07/16/2018 12:00:00 PM,Manhattan,Central Park,Raccoon,Native,Small Mammals-RVS,1.0
+07/16/2018 11:00:00 AM,Manhattan,Central Park,Raccoon,Native,Small Mammals-RVS,1.0
+07/17/2018 11:40:00 AM,Manhattan,Central Park,Raccoon,Native,Small Mammals-RVS,1.0
+07/12/2018 11:15:00 AM,Brooklyn,Prospect Park,Raccoon,Native,Small Mammals-RVS,1.0
+07/16/2018 02:40:00 PM,Queens,Alley Pond Park Tennis Courts Near Court 16,Raccoon,Native,Small Mammals-RVS,0.0
+07/15/2018 06:40:00 PM,Bronx,Van Cortlandt Park,Mallard Duck,Native,Birds,7.0
+07/12/2018 11:00:00 AM,Brooklyn,Prospect Park,Raccoon,Native,Small Mammals-RVS,1.0
+07/14/2018 11:30:00 AM,Manhattan,Central Park,Raccoon,Native,Small Mammals-RVS,1.0
+07/14/2018 01:00:00 PM,Brooklyn,Owl's Head Park,House Sparrow,Native,Birds,1.0
+07/14/2018 11:00:00 AM,Manhattan,Central Park,Raccoon,Native,Small Mammals-RVS,1.0
+07/12/2018 04:37:00 PM,Manhattan,Central Park,Pigeon,Native,Birds,1.0
+07/12/2018 12:30:00 PM,Manhattan,Morningside Park,Raccoon,Native,Small Mammals-RVS,1.0
+07/14/2018 09:15:00 AM,Manhattan,Central Park,Raccoon,Native,Small Mammals-RVS,1.0
+07/12/2018 10:30:00 AM,Manhattan,Central Park,Raccoon,Native,Small Mammals-RVS,1.0
+07/13/2018 02:30:00 PM,Bronx,Van Cortlandt Park,Infant Squirrel,Native,Small Mammals-non RVS,1.0
+07/13/2018 09:00:00 AM,Manhattan,Central Park,Raccoon,Native,Small Mammals-RVS,1.0
+07/11/2018 09:30:00 AM,Manhattan,Central Park,Raccoon,Native,Small Mammals-RVS,3.0
+07/13/2018 10:43:00 AM,Queens,Fort Totten Park,Red-Eared Slider,Domestic,Domestic,1.0
+07/12/2018 10:30:00 AM,Manhattan,Central Park,Raccoon,Native,Small Mammals-RVS,1.0
+07/11/2018 03:00:00 PM,Queens,Rockaway Beach and Boardwalk,American Oystercatcher,Native,Birds,1.0
+07/06/2018 08:45:00 AM,Manhattan,Central Park,Raccoon,Native,Small Mammals-RVS,1.0
+07/05/2018 01:00:00 PM,Manhattan,Central Park,Raccoon,Native,Small Mammals-RVS,1.0
+07/05/2018 09:08:00 AM,Manhattan,Sheltering Arms Playground,Opossum,Native,Small Mammals-non RVS,1.0
+07/10/2018 09:00:00 AM,Manhattan,Central Park,Raccoon,Native,Small Mammals-RVS,1.0
+07/08/2018 10:17:00 PM,Bronx,Van Cortlandt Park,Skunk,Native,Small Mammals-RVS,1.0
+07/08/2018 09:40:00 AM,Bronx,Space Time Playground,Cat,Domestic,Domestic,3.0
+07/07/2018 11:20:00 AM,Brooklyn,Prospect Park,Mallard Duck,Native,Birds,1.0
+07/06/2018 11:00:00 AM,Manhattan,Central Park,Raccoon,Native,Small Mammals-RVS,1.0
+07/05/2018 01:58:00 PM,Staten Island,Ocean Breeze Park,Cormorant,Native,Birds,1.0
+07/05/2018 11:30:00 AM,Queens,Forest Park,Raccoon,Native,Small Mammals-RVS,3.0
+07/05/2018 02:05:00 PM,Queens,Rockaway Beach and Boardwalk,Peregrine Falcon,Native,Raptors,1.0
+06/28/2018 03:50:00 PM,Manhattan,Central Park,Raccoon,Native,Small Mammals-RVS,1.0
+06/12/2018 08:30:00 AM,Manhattan,Riverside Park,Red-Tailed Hawk,Native,Raptors,1.0
+06/27/2018 10:43:00 AM,Manhattan,John V. Lindsay East River Park,Dutch Blue Love Bird,Exotic,Birds,1.0
+06/24/2018 10:00:00 AM,Manhattan,Central Park,Raccoon,Native,Small Mammals-RVS,1.0
+06/15/2018 12:00:00 AM,Manhattan,Riverside Park,Red-Tailed Hawk,Native,Raptors,1.0
+06/14/2018 12:00:00 AM,Manhattan,Riverside Park,Red-Tailed Hawk,Native,Raptors,1.0
+06/12/2018 08:30:00 AM,Manhattan,Riverside Park,Red-Tailed Hawk,Native,Raptors,2.0
+06/16/2018 02:00:00 PM,Manhattan,Riverside Park,Red-Tailed Hawk,Native,Raptors,1.0
+06/15/2018 02:00:00 PM,Manhattan,Central Park,Double Crested Cormorant,Native,Birds,1.0
+06/15/2018 02:00:00 PM,Manhattan,Central Park,Raccoon,Native,Small Mammals-RVS,1.0
+06/17/2018 02:30:00 PM,Manhattan,Central Park,Raccoon,Native,Small Mammals-RVS,1.0
+06/12/2018 05:10:00 PM,Manhattan,Riverside Park,Red-Tailed Hawk,Native,Raptors,1.0
+06/12/2018 02:00:00 PM,Manhattan,Central Park,Raccoon,Native,Small Mammals-RVS,1.0
+06/11/2018 10:15:00 AM,Manhattan,Riverside Park,Red-Tailed Hawk,Native,Raptors,1.0
+06/05/2018 12:00:00 AM,Manhattan,Abingdon Square,Raccoon,Native,Small Mammals-RVS,1.0
+06/01/2018 12:00:00 PM,Manhattan,Central Park,Raccoon,Native,Small Mammals-RVS,1.0
+05/16/2018 09:00:00 AM,Manhattan,Morningside Park,Raccoon,Native,Small Mammals-RVS,2.0
+05/02/2018 09:30:00 AM,Manhattan,Central Park,Raccoon,Native,Small Mammals-RVS,1.0
+05/07/2018 01:30:00 PM,Manhattan,Central Park,Red-Tailed Hawk,Native,Raptors,1.0
