@@ -146,3 +146,16 @@ The sheer size of output was initially the issue, however, time proved to be the
 Despite this: I did end up creating a map for Staten Island. Looking over the vast plot of greenery and space, I believe SI to be an intersting place to visit if you want to see some funky animals. _(The ferry ain't bad either, you get to see Lady Liberty!)_. Anyways, here's the map and I hope you decide to visit and take a look for yourself!
 
 [HTML](watcherSI[NoGeoJSON].html)
+
+### Method/Techniques:
+
+Honestly, you could just branch/copy to achieve the same result for this website. Most of the techniques on this website derived from periodically glancing over python documentation. Everything else was from prior experience in Python. Tools in python are generally very intuitive and easy to work with. The occasional googling for whatever stumps you in the moment is generally helpful.
+
+### Citations:
+https://python-visualization.github.io/folium/index.html
+https://pandas.pydata.org/docs/user_guide/index.html
+https://numpy.org/doc/stable/
+https://matplotlib.org/stable/users/index
+https://docs.python.org/3/
+(for location data)
+https://www.google.com/maps
