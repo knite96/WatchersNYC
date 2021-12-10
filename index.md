@@ -56,10 +56,6 @@ perc = top_of_list/sum(top_of_list) * 100
 print(perc)
 ```
 ![Image](boro_p.PNG)
-
-So, I'm guessing Central Park has something to do with this...
-Let's see what a bar graph will show us...
-
 ```
 #bar graph to visualize the split amongst the boroughs oF NYC
 fig = plt.figure()
@@ -71,9 +67,56 @@ plt.show()
 ```
 ![Image](bar1.png)
 
+Well, Manhatten is clearly the most popular spot, I wonder what the animal population is like:
+```
+#visualizing with pie chart
+watcher = watcher.loc[(watcher['# of Animals'] > 0)]
+w_graph = watcher.groupby(['Species Description'])['# of Animals'].sum()
+w_graph.plot.pie(subplots=True,figsize=(10,10))
+plt.show()
+```
 
+![Image](pie1.png)
 
+Ok, I didn't expect raccoons to be this high...
+Let's see the raw percentages!
 
+```
+#groupby function to see the animal data by percentage
+w_graph = watcher.groupby(['Species Description'])['# of Animals'].sum()
+top_of_list = w_graph.sort_values(ascending=False)
+percentage = top_of_list/sum(top_of_list) * 100
+print(percentage)
+```
+
+![Image](animal_p.PNG)
+
+Leading by almost 50%? I wonder what the pie will look like without that large chunk of trash panda...
+
+```
+#visualizing with pie chart (once more!)
+watcher = watcher.loc[(watcher['# of Animals'] > 0)]
+w_graph = watcher.groupby(['Species Description'])['# of Animals'].sum()
+w_graph.plot.pie(subplots=True,figsize=(10,10))
+plt.show()
+```
+
+![Image](pie2.png)
+
+There are far too many labels for this pie, let us take a look at something else.
+Let's check how these animals are classified:
+
+```
+#species classification
+w_graph = watcher.groupby(['Species Status'])['# of Animals'].sum()
+w_graph.plot.bar(subplots=True,figsize=(10,10))
+plt.title('Species of Animal Encounters')
+plt.xlabel('Type of Species')
+plt.ylabel('Encounters')
+plt.show()
+```
+
+![Image](bar2.png)
 
 
 
