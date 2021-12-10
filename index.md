@@ -43,3 +43,4 @@ df.to_csv('WatchersFin.csv', index=False)
 ```
 
 ![CSV](WatchersFin.csv)
+![Image](bar1.png)
