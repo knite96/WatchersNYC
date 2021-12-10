@@ -20,7 +20,25 @@ import folium
 
 With the proper libraries loaded, we can now read the dataset I chose:
 ```
-#dataset link: https://data.cityofnewyork.us/Environment/Urban-Park-Ranger-Animal-Condition-Response/fuhs-xmg2
 #read dataset
 df = pd.read_csv('Urban_Park_Ranger_Animal_Condition_Response.csv')
+```
+
+Now we move onto preprocessing the data:
+
+###Preprocessing the Data:
+```
+#return dataframe of necessary features
+df = df[['Date and Time of initial call', 'Borough', 'Property', 'Species Description', 'Species Status', 'Animal Class', '# of Animals']]
+#drop all nans
+df.dropna()
+
+#standardize all species descriptions for easier grouping
+#small additional edits were made to standardize all non-formal entries/spelling errors
+df['Species Description'] = df['Species Description'].str.title()
+df['Species Status'] = df['Species Status'].replace(np.nan, 'Other')
+
+#output to new file
+df.to_csv('WatchersFin.csv', index=False)
+[CSV](WatchersFin.csv)
 ```
