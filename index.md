@@ -115,10 +115,28 @@ plt.xlabel('Type of Species')
 plt.ylabel('Encounters')
 plt.show()
 ```
-
+This supports my initial assumtion that the majority of these animal encounters are native and have adapted to NYC.
 ![Image](bar2.png)
 
+Let's check one more thing:
+```
+#Horizontal bar graph for animal classes
+classes = ['Birds', 'Coyotes', 'Deer', 'Domestic', 'Domestic;#Birds', 'Marine Mammals-seals only', 'Marine Mammals-whales, Dolphin', 'Marine Reptiles', 'Raptors', 'Rare, Endangered, Dangerous', 'Small Mammals-RVS', 'Small Mammals-non RVS', 'Terrestrial Reptile or Amphibian']
+num_animals = [198,6,20,87,6,5,2,7,53,1,582,56,22]
+y_label = np.arange(len(classes))
+plt.barh(y_label, num_animals)
+plt.yticks(y_label, classes)
+plt.show()
+```
+![Image](bar3.png)
 
+So, it's _clear_ these visualizations all point to a singular conclusion:
+
+## Conclusion: (TLDR:)
+
+**THE STREETS OF NEW YORK BELONG TO TRASH PANDAS**
+
+In all honesty, I believe that the only reason raccoons are reported so high is because most people don't want to deal with them. Fear of rabies and general uncleanliness from going through other people's trash generally tends to sway people away. However, I think that, despite whatever bias one may have against them, they are a model survivor in the concrete jungle that is NYC.
 
 
 
